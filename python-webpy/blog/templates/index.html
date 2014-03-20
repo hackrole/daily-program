@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}
+the blog index
+{% endblock %}
+
+{% block body %}
+{{ posts|pprint() }}
+<ul id="menu">
+  <li><a href="/">Home</a> </li>
+  {% for post in posts %}
+  <a href=""> {{ post.title }}</a>
+  <p>{{ post.content }}</p>
+  {% endfor %}
+</ul>
+{% endblock %}
+
+
