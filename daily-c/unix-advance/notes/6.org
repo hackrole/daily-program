@@ -1,0 +1,70 @@
+#+Author: hackrole
+#+Email: daipeng123456@gmail.com
+#+Date: 2013-07-01
+
+unix系统使用大量的系统相关数据文件，这些文件都是ASCII文本，并且使用标准I/O读取。
+本章主要内容：
+1) 针对这些数据文件的编程接口
+2) 系统标识函数/时间日期函数
+
+* 口令文件
+- <pwd.h> struct passwd
+相关函数:
+  1) getpwuid
+  2) getpwnam
+  3) getpwent/setpwent/endpwent
+- /etc/passwd
+用户名:加密口令(/etc/shadow):uid:gid:注释:pwd:shell:...
+
+* 阴影口令
+- /etc/shadow(不同系统实现有所不同)
+- <shadow.h> struct spwd
+  1) getspnam
+  2) getspent/setspent/endspent
+ 
+* 组文件
+- /etc/group
+- <grp.h> struct group
+group_name:group_passwd:gid:指向各用户名的指针数组
+  1) getgrgid
+  2) getgrnam
+  3) getgrent/setgrent/endgrent
+- 附加组id
+	 1) <unistd.h> getgroups()
+	 2) <grp.h> setgroups(), initgroups()
+
+* 其他数据文件
++ /etc/service
++ /etc/protocols
++ /etc/networks
+
+* 账户登录信息
+1) utmp文件，当前登录的各用户(who)
+2) wtmp文件，登录注销日志(last)
+
+* 系统标识
+<sys/utsname.h>
+uname()/ struct utsname
+
+* 时间和日期
+1) <time.h>/<sys/time.h>
+2) 函数:
+   - time()
+   - gettimeofday()
+   - gmtime()/localtime()
+   - mktime()
+   - asctime()/ctime()
+   - strftime()
+
+
+
+
+
+
+
+
+
+
+
+
+
