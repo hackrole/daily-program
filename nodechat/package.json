@@ -1,7 +1,11 @@
 {
     "name": "charrooms",
     "version": "0.0.1",
-    "descriptioin": "minimalist multi-room char server",
+    "description": "minimalist multi-room char server",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/npm/npm.git"
+    },
     "dependencies": {
         "socket.io": "~0.9.6",
         "mime": "~1.2.7"

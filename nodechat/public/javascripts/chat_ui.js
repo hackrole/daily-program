@@ -1,14 +1,22 @@
+function divEscapedConentElement(message){
+  return $('<div></div>').text(message);
+}
+
+function divSystemContentElement(message){
+  return $('<div></div').html('<i>' + message + '</i>');
+}
+
 function processUserInput(chatApp, socket){
     var message = $('#send-message').val();
     var systemMessage;
 
-    if(message.charat(0) == '/'){
+    if(message.charAt(0) == '/'){
         systemMessage = chatApp.processCommand(message);
         if(systemMessage){
             $('#messages').append(divSystemContentElement(systemMessage));
         }
     }else{
-        chatApp.sendMesage($('#room').text(), message);
+        chatApp.sendMessage($('#room').text(), message);
         $('#messages').append(divEscapedConentElement(message));
         $('#messages').scrollTop($('#message').prop('scrollHeight'));
     }
@@ -17,7 +25,7 @@ function processUserInput(chatApp, socket){
 }
 
 var socket = io.connect();
-$(document).read(function(){
+$(document).ready(function(){
     var chatApp = new Chat(socket);
     socket.on('nameResult', function(result){
         var message;
@@ -56,7 +64,7 @@ $(document).read(function(){
         });
     });
 
-    setInerval(function(){
+    setInterval(function(){
         socket.emit('rooms');
     }, 1000);
 

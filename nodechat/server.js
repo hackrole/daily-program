@@ -15,7 +15,7 @@ function send404(response){
 function sendFile(response, filePath, fileContents){
     response.writeHead(
         200,
-        {'Content-Type': mime.looup(path.basename(filePath))}
+        {'Content-Type': mime.lookup(path.basename(filePath))}
     );
     response.end(fileContents);
 }
@@ -23,7 +23,7 @@ function sendFile(response, filePath, fileContents){
 
 function serverStatic(response, cache, absPath){
     if(cache[absPath]){
-        sendFile(response, absPath, cache(absPath));
+        sendFile(response, absPath, cache[absPath]);
     }else{
         fs.exists(absPath, function(exists){
             if(exists){

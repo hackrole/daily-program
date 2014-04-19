@@ -39,7 +39,7 @@ Chat.prototype.processCommand = function(command){
         message = "Unrecognized command."
         break;
     }
-    
+
     return message;
 };
 
