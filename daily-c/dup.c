@@ -5,6 +5,6 @@
 
 int main(int argc, char *argv[])
 {
-  int fno_stdout;
-  return 0;
+  int fno_stdout = 0;
+  return fno_stdout;
 }
