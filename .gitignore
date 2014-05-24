@@ -1,4 +1,7 @@
 *.pyc
 *.log
+*.i
+*.s
+*.o
 logs/*
 uploads/*
