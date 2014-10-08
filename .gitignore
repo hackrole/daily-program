@@ -3,5 +3,7 @@
 *.i
 *.s
 *.o
+*.beam
 logs/*
 uploads/*
+

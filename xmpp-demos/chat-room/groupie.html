@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Groupie chat</title>
+  <link rel="stylesheet" href="http://ajax.googlapis.com/ajax/libs/jqueryui/1.7.2/themes/cupertino/jquery-ui.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.js"></script>
+  <script src="scripts/strophe.js"></script>
+  <script src="scripts/flXHR.js"></script>
+  <script src="scripts/strophe.flxhr.js"></script>
+
+  <link rel="stylesheet" href="groupie.css" type="text/css">
+  <script type="text/javascript" src="groupie.js"></script>
+</head>
+<body>
+  <h1>Groupie</h1>
+
+  <div class="toolbar">
+    <input id="leave" type="button" value="Leave Room" disabled="disabled">
+  </div>
+
+  <div>
+    <div>
+      <span id="room-name"></span>
+      <span id="room-topic"></span>
+    </div>
+
+    <div class="chat"></div>
+
+    <textarea id="input"></textarea>
+  </div>
+
+  <div id="participants">
+    <ul id="participants-list"></ul>
+  </div>
+
+  <!-- login dialog -->
+  <div id="login_dialog" class="hidden">
+    <label for="jid">JID:</label>
+    <input id="jid" type="text">
+    <label for="password">password:</label>
+    <input id="password" type="password">
+    <label for="room">chat room:</label>
+    <input id="room" type="text">
+    <label for="nickname">nickname</label>
+    <input id="nickanme" type="text">
+  </div>
+
+</body>
+</html>
