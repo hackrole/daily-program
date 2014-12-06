@@ -16,6 +16,7 @@ class DmbtItem(scrapy.Item):
 
 class UrlItem(scrapy.Item):
     url = scrapy.Field()
+    bt_url = scrapy.Field()
     title = scrapy.Field()
     image_urls = scrapy.Field()
     images = scrapy.Field()
