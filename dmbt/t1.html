@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  {% for div in divs %}
+  <div>
+      {% for tt in div.title %}
+      <div class="title">{{ tt|safe }}</div>
+      {% endfor %}
+    <div class="images">
+      {% for image in div.images %}
+      <img src="{{ image.url }}" />
+      {% endfor %}
+    </div>
+    <div><a href="{{ div.bt_url }}">链接地址</a></div>
+    {% endfor %}
+  </div>
+</body>
+</html>
