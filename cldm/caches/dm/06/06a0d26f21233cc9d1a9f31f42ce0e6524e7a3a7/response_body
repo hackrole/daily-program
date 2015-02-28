@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=0.5, maximum-scale=0.5, user-scalable=no">
+<title>免费图床TU265.COM V3</title>
+<meta name="Description" content="TU265是国内免费外链稳定图床网站。允许图片类型JPG JPEG PNG GIF。日均1000万次请求，1.5TB流量。"/>
+<meta name="Keywords" content="免费图床,国内免费图床,国内图床,外链图床,稳定图床,图床,图床网站"/>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link href="images/css.css?20140827" rel="stylesheet" type="text/css" />
+<link href="images/webuploader.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<h1>免费图床TU265.COM</h1>
+<div class="div"><a href="http://www.tu265.com/">首页</a>&nbsp;&nbsp;<a href="http://vip.tu265.com">会员区</a></div>
+<div id="up" class="div">
+  <div id="pick">正在初始化</div>
+</div>
+<div id="progress" class="div" style="display:none;">
+  <div class="progress"></div>
+</div>
+<div id="msg" class="div" style="display:none;"></div>
+<div id="show" style="display:none;">
+  <div class="div">
+    <div>图片地址&nbsp;&nbsp;<span id="url_msg">复制到剪贴板</span></div>
+    <div>
+      <input type="text" class="in" style="width:390px" value="" id="url" readonly/>
+      <input id="url_swf" type="button" value="复制"  class="btn" />
+    </div>
+    <div>HTML代码&nbsp;&nbsp;<span id="html_msg">复制到剪贴板</span></div>
+    <div>
+      <input type="text" class="in" style="width:390px" value="" id="html" readonly/>
+      <input id="html_swf" type="button" value="复制"  class="btn" />
+    </div>
+    <div>论坛代码&nbsp;&nbsp;<span id="ubb_msg">复制到剪贴板</span></div>
+    <div>
+      <input type="text" class="in" id="ubb" style="width:390px" value="" readonly/>
+      <input id="ubb_swf" type="button" value="复制"  class="btn" />
+    </div>
+  </div>
+  <div class="div" style="text-align:center;"><span style="display:block;cursor:pointer;font-weight:bold;" onClick="reupload();">再传一张</span></div>
+  <div class="div" style="text-align:center;"><img id="pic" src="" border="0" style="max-width:468px;_width:468px;" /></div>
+</div>
+<div class="div" id="ads"> 
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0258887286569249";
+/* tu265 */
+google_ad_slot = "3564482183";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script> 
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> 
+</div>
+<div class="div">允许图片类型JPG JPEG PNG GIF；图片大小5M以内；</div>
+<div class="div">
+  <div class="bdsharebuttonbox"><A class=bds_more href="http://share.baidu.com/code#" data-cmd="more"></A><A title=分享到QQ空间 class=bds_qzone href="http://share.baidu.com/code#" data-cmd="qzone"></A><A title=分享到新浪微博 class=bds_tsina href="http://share.baidu.com/code#" data-cmd="tsina"></A><A title=分享到腾讯微博 class=bds_tqq href="http://share.baidu.com/code#" data-cmd="tqq"></A><A title=分享到人人网 class=bds_renren href="http://share.baidu.com/code#" data-cmd="renren"></A><A title=分享到微信 class=bds_weixin href="http://share.baidu.com/code#" data-cmd="weixin"></A><A title=分享到百度新首页 class=bds_bdhome href="http://share.baidu.com/code#" data-cmd="bdhome"></A><A title=分享到QQ收藏 class=bds_qq href="http://share.baidu.com/code#" data-cmd="qq"></A><A title=分享到豆瓣网 class=bds_douban href="http://share.baidu.com/code#" data-cmd="douban"></A><A title=分享到百度贴吧 class=bds_tieba href="http://share.baidu.com/code#" data-cmd="tieba"></A><A title=分享到百度搜藏 class=bds_baidu href="http://share.baidu.com/code#" data-cmd="baidu"></A><A title=分享到网易微博 class=bds_t163 href="http://share.baidu.com/code#" data-cmd="t163"></A><A title=分享到堆糖 class=bds_duitang href="http://share.baidu.com/code#" data-cmd="duitang"></A><A title=分享到linkedin class=bds_linkedin href="http://share.baidu.com/code#" data-cmd="linkedin"></A><A title=分享到复制网址 class=bds_copy href="http://share.baidu.com/code#" data-cmd="copy"></A></div>
+  <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin","bdhome","qq","douban","tieba","baidu","t163","duitang","linkedin","copy"],"viewText":"分享到：","viewSize":"16"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script></div>
+<script type="text/javascript">
+var URL='http://www.tu265.com/';
+var MAXSIZE=5;
+</script> 
+<script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script> 
+<script type="text/javascript" src="js/webuploader.min.js"></script> 
+<script type="text/javascript" src="js/ZeroClipboard.js"></script> 
+<script type="text/javascript" src="js/upload.js?2014082402"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9c342324ca7bf5ca3a2fd43b4a62bb38' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>

@@ -1,0 +1,1872 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title> 動漫原創區 草榴社區  - powered by phpwind.net</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<base href="http://cl.yyq.im/" />
+<link rel="stylesheet" href="http://173.236.54.236/style.css?v=1.92" type="text/css" />
+</head><body>
+
+<div id="header">
+<div class="banner" style="padding-left:5px;"><a href="../../../"><FONT SIZE="7" COLOR="white"><B>草榴社區</B></FONT></a></div>
+<div class="h guide" colspan="2">&raquo;
+
+	<!--mb-->您尚未　<a href="login.php">登錄</a> &nbsp;<a href="register.php"><b>註冊</b></a><!--mbend-->
+
+	| <a href="search.php">搜索</a> | <a style="cursor:pointer;" id="td_hack" onClick="click_open('menu_hack','td_hack');" onMouseOver="mouseover_open('menu_hack','td_hack');">社區服務</a>
+
+	| <a href="hack.php?H_name=bank">银行</a>
+
+	| <a href="hack.php?H_name=invite">邀请注册</a>
+
+	| <a href="faq.php">幫助</a>
+
+</div>
+<div id="showmenu" style="z-index:100;display:none;"></div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">社區服務</th></tr>
+
+</table></div>
+
+<div id="blank" style="height:10px; clear:both"></div>
+</div>
+<div id="main">
+
+<div class="t3" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td>.:. <a href="index.php">草榴社區</a> &raquo; <a href="thread0806.php?fid=5">動漫原創區</a> (<a href="rss.php?fid=5" target="_blank" title="RSS訂閱本版面最新帖子">RSS</a>)</td></tr>
+</table></div>
+
+<!--ads begin-->
+
+<!--ads end-->
+
+<div class="t">
+<table cellspacing="0" cellpadding="0" width="100%">
+	<tr><td class="h" colspan="5"><b>子版塊</b></td>
+	</tr>
+	<tr></tr>
+	<tr class="tr2"><td width="5%">&nbsp;</td><td width="*">論壇</td><td width="10%" class="y-style">版主</td><td width="12%" class="y-style">文章</td><td width="17%" class="y-style">最後發表</td>
+	</tr>
+	<!-- -->
+	<tr class="f_one tr3" onMouseOver="this.className='f_two tr3'" onMouseOut="this.className='f_one tr3'" ><td align="center" valign="middle" class="y-style"><a href="thread0806.php?fid=24" target="_blank">.:.</a> </td>
+	<th align="left"> <a class="bklogo" href="thread0806.php?fid=24" target="_blank"></a>
+		<h2><a href="thread0806.php?fid=24" class="fnamecolor a1"> <b>動漫轉帖區</b></a></h2><br /><span class="smalltxt"></span> </th>
+	<td align="center" style="word-break:keep-all" class="y-style">
+		<a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+		
+		&nbsp;</td>
+	<td class="f10 y-style">15370</td>
+	<th class="smalltxt y-style" title="2015-02-28 14:46"> 
+		<h3><a href="read.php?tid=1395590&page=e#a">「[150227][ZIZ]ボク ..</a></h3><br />mini_zuo
+
+	</th></tr>
+	
+	<tr><td style="height:8px"></td>
+	</tr></table></div>
+
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="left" valign="middle"><div class="pages"><a href="thread0806.php?fid=5&search=&type=1&page=1" style="font-weight:bold">＜</a><a href="thread0806.php?fid=5&search=&type=1&page=35">35</a><a href="thread0806.php?fid=5&search=&type=1&page=36">36</a><a href="thread0806.php?fid=5&search=&type=1&page=37">37</a><b> 38 </b><a href="thread0806.php?fid=5&search=&type=1&page=39">39</a><a href="thread0806.php?fid=5&search=&type=1&page=40">40</a><a href="thread0806.php?fid=5&search=&type=1&page=41">41</a><a href='thread0806.php?fid=5&search=&type=1&page=45'>45</a><a href='thread0806.php?fid=5&search=&type=1&page=39' style='font-weight:bold'>下一頁</a><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=5&search=&type=1&page='+this.value;return false;}"><a href="thread0806.php?fid=5&search=&type=1&page=45" style="font-weight:bold">＞</a></div></td><td style="text-align:right"><a href="post.php?fid=5"> 發布主題</a>
+
+	<a href="post.php?fid=5&special=1">投票</a>
+</td>
+	</tr>
+</table></div>
+<div class="t" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	
+	<tr><th class="h" colspan="5" style="width:100%"><a class="fr a2 fn" href="thread0806.php?fid=5">所有主題</a> <a class="fr a2 fn" href="thread0806.php?fid=5&search=digest">精華主題</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=1"><b>動畫</b></a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=2">漫畫</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=3">遊戲</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=4">公告</a>
+
+		<a href="thread0806.php?fid=5">動漫原創區</a><span>　版主:
+
+		&nbsp;<a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+
+		</span></th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2">
+	<td class="tac y-style">狀態</td>
+	<td style="width:62%" class="tac">文章</td>
+	<td style="width:10%" class="y-style">作者</td>
+	<td style="width:6%" class="y-style">回復</td>
+	<td style="width:17%" class="y-style">最後發表</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/659029.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/659029.html" target="_blank" id="">「(原創)堕落 女教師破壊」無碼/RMVB/342MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=659029&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=659029&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=659029&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=659029&page=e&fpage=38#a" class="f10"> 2014-10-07 12:38 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/659026.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/659026.html" target="_blank" id="">「(原創)大失禁へレナ」無碼/RMVB/222MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">3</td>
+	<td class="tal y-style"><a href="read.php?tid=659026&page=e&fpage=38#a" class="f10"> 2011-12-14 11:16 </a><br />by: 猎色</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/659019.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/659019.html" target="_blank" id="">「(原創)勾起狼友的野望 女教師 -肉体授業」 有碼/RMVB/188MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal y-style"><a href="read.php?tid=659019&page=e&fpage=38#a" class="f10"> 2015-01-09 10:36 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/659004.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/659004.html" target="_blank" id="">「(原創)恥熱カルテ The Devilish Cherry」 有碼/MP4/974MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=659004&page=e&fpage=38#a" class="f10"> 2014-10-07 12:36 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658973.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658973.html" target="_blank" id="">「(原創)Swing Out Sisters vol.1[MKV/8bit+10bit多版本]」 有碼/MKV/1.1GB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=658973&page=e&fpage=38#a" class="f10"> 2014-10-08 05:51 </a><br />by: 少侠i别走</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658904.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658904.html" target="_blank" id="">「(原創)IMMORAL&nbsp; 「校内調教のススメ」 有碼/RMVB/121MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal y-style"><a href="read.php?tid=658904&page=e&fpage=38#a" class="f10"> 2015-01-09 10:36 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658903.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658903.html" target="_blank" id="">「(原創)IMMORAL&nbsp; 「ワイセツ教師のススメ」 有碼/RMVB/129MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=658903&page=e&fpage=38#a" class="f10"> 2015-02-02 17:38 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658792.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658792.html" target="_blank" id="">「(原創)制服成人卡通珍藏系列之內衣辦公室3部(外掛中文字幕)」無碼/AVI/共878MB</a></h3> &nbsp;<font color=green>[積分+35]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=658792&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=658792&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=101478" class="bl">激情吧</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">15</td>
+	<td class="tal y-style"><a href="read.php?tid=658792&page=e&fpage=38#a" class="f10"> 2015-02-02 17:38 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658396.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658396.html" target="_blank" id="">「(原創)痴漢者トーマス 痴漢道その一」無碼/rmvb/115MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230869" class="bl">肚兜囧破</a>
+		<div class="f10">2011-12-12</div></td>
+	<td class="tal f10 y-style">9</td>
+	<td class="tal y-style"><a href="read.php?tid=658396&page=e&fpage=38#a" class="f10"> 2015-02-02 17:38 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658652.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658652.html" target="_blank" id="">「(原創)痴漢者トーマス 痴漢道その」無碼/RMVB/115MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=658652&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=658652&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=658652&page=e&fpage=38#a" class="f10"> 2015-02-02 15:09 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658647.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658647.html" target="_blank" id="">「(原創)人妻交姦日记 前後编」無碼/MP4/275MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=658647&page=e&fpage=38#a" class="f10"> 2015-02-02 15:09 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658642.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658642.html" target="_blank" id="">「(原創)女狼狂濡 两集」無碼/RMVB/196MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal y-style"><a href="read.php?tid=658642&page=e&fpage=38#a" class="f10"> 2015-02-02 15:09 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658641.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658641.html" target="_blank" id="">「(原創)緋忍伝 ～呀宇種～ 朧月の章」 有碼/MP4/464MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal y-style"><a href="read.php?tid=658641&page=e&fpage=38#a" class="f10"> 2015-02-02 15:09 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658639.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658639.html" target="_blank" id="">「(原創)女教師 裕美の放課後 两部合集（中文字幕）」無碼/RMVB/189MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=658639&page=e&fpage=38#a" class="f10"> 2015-02-02 15:09 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658636.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658636.html" target="_blank" id="">「(原創)美しき性の伝道師 麗々」 無碼/AVI/550.10MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=658636&page=e&fpage=38#a" class="f10"> 2015-02-02 15:09 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658484.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658484.html" target="_blank" id="">「(原創)一緒にHしよっ ～夏川ひな編」有码/MP4/58MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230808" class="bl">夜来鸟</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">3</td>
+	<td class="tal y-style"><a href="read.php?tid=658484&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658474.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658474.html" target="_blank" id="">「(原創)セスジャンキー ボリューム 1-2」无码/rmvb/254MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230808" class="bl">夜来鸟</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=658474&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658399.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658399.html" target="_blank" id="">「(原創)姬騎士卡秋婭」 有碼/MKV/625MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=658399&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=658399&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=658399&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658335.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658335.html" target="_blank" id="">「(原創)一緒にHしよっ ～夏川ひな編～」 有碼/MP4/59MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=658335&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658325.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658325.html" target="_blank" id="">「(原創)終わらない明日～」 无码/RMVB/373MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=658325&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=658325&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-11</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=658325&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658084.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658084.html" target="_blank" id="">「(原創)女教师系列十：ドキドキ母娘レッスン ～教え家庭教師 两部合集」有碼/RMVB/269MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=658084&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=658084&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=658084&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658083.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658083.html" target="_blank" id="">「(原創)女教师系列九：女教師 紗也香 两部合集」無碼/RMVB/306MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=658083&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=658083&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=658083&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658082.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658082.html" target="_blank" id="">「(原創)女教师系列八：女教師二十三歳」有碼/RMVB/243MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">9</td>
+	<td class="tal y-style"><a href="read.php?tid=658082&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/658081.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/658081.html" target="_blank" id="">「(原創)奴隷介護(中文字幕)」 無碼/RMVB/269MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=658081&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657878.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657878.html" target="_blank" id="">「(原創)MAID iN HEAVEN SuperS 1-2」有码/rmvb/234MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230808" class="bl">夜来鸟</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal y-style"><a href="read.php?tid=657878&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657756.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657756.html" target="_blank" id="">「(原創)胸キュン！はぁとふるCafe」 有码/AVI/531MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=657756&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=657756&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=657756&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657754.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657754.html" target="_blank" id="">「(原創)理科準備室でつかまえて ハッピーエンド」 有码/MP4/336MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal y-style"><a href="read.php?tid=657754&page=e&fpage=38#a" class="f10"> 2015-02-02 15:10 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657744.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657744.html" target="_blank" id="">「(原創)遊人ブランド」 無碼/AVI/411MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=657744&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657649.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657649.html" target="_blank" id="">「(原創)奴隷処女1+2 」無碼/RWVB/234 MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=657649&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=657649&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=235660" class="bl">zwpn</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=657649&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657214.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657214.html" target="_blank" id="">「(原創)民生委員の女- ～ハスカタ 」有码/rmvb/98MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230808" class="bl">夜来鸟</a>
+		<div class="f10">2011-12-10</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=657214&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657595.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657595.html" target="_blank" id="">「(原創)凌辱人妻温泉(中文字幕)」 無碼/RMVB/253MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=657595&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657594.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657594.html" target="_blank" id="">「(原創)精品 爆乳姐妹 前后篇(中文字幕)」 無碼/RMVB/237MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=657594&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657527.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657527.html" target="_blank" id="">「(原創)花漾新聞女主播·山野邊悅子」無碼/RMVB/184MB</a></h3> &nbsp;<font color=green>[積分+100]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=657527&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=657527&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=657527&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657524.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657524.html" target="_blank" id="">「(原創)姫奴隷～牝へと堕ちゆく双子の王女」有碼/RMVB/244MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal y-style"><a href="read.php?tid=657524&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657521.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657521.html" target="_blank" id="">「(原創)&nbsp; 女教師 裕美の放課後」無碼/RMVB/190MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=657521&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657488.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657488.html" target="_blank" id="">「(原創)教师系列1 女教師 三部合集」無碼/RMVB/348MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal y-style"><a href="read.php?tid=657488&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657487.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657487.html" target="_blank" id="">「(原創)黑姬(中文字幕)」 無碼/RMVB/230MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal y-style"><a href="read.php?tid=657487&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657264.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657264.html" target="_blank" id="">「(原創)双子ノ母性本能一 中文字幕」無碼/RMVB/109MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal y-style"><a href="read.php?tid=657264&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657259.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657259.html" target="_blank" id="">「(原創)十二人の女教師 两部合集」無碼/RMVB/220MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal y-style"><a href="read.php?tid=657259&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657250.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657250.html" target="_blank" id="">「(原創)美3D仿真人動畫-PINKS 桃色香車」 無碼/AVI/598MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal y-style"><a href="read.php?tid=657250&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657210.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657210.html" target="_blank" id="">「(原創)詩乃先生の誘惑授業」 無碼/MP4/390M</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=657210&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=657210&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">13</td>
+	<td class="tal y-style"><a href="read.php?tid=657210&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/657116.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/657116.html" target="_blank" id="">「(原創)好色女教师」 無碼/AVI/250MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=228664" class="bl">专修平房漏水</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=657116&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656859.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656859.html" target="_blank" id="">「(原創)年轻女教師」有码/rmvb/264MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230808" class="bl">夜来鸟</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">9</td>
+	<td class="tal y-style"><a href="read.php?tid=656859&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656544.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656544.html" target="_blank" id="">「(原創)キ背徳妻～仮面の真実～合集」 無碼/AVI/479MB</a></h3> &nbsp;<font color=green>[積分+55]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=656544&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=656544&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=228664" class="bl">专修平房漏水</a>
+		<div class="f10">2011-12-09</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=656544&page=e&fpage=38#a" class="f10"> 2015-02-02 15:11 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656938.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656938.html" target="_blank" id="">「(原創)失乐园 前后篇」無碼/RMVB/262MB</a></h3> &nbsp;<font color=green>[積分+50]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal y-style"><a href="read.php?tid=656938&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656837.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656837.html" target="_blank" id="">「(原創)贖罪の教室 前后篇」無碼/RMVB/198MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal y-style"><a href="read.php?tid=656837&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656827.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656827.html" target="_blank" id="">「(原創)三人の聖処女 前后篇」無碼/MKV/267MB</a></h3> &nbsp;<font color=green>[積分+200]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal y-style"><a href="read.php?tid=656827&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656814.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656814.html" target="_blank" id="">「(原創)辱妻 上下两集」無碼/RMVB/217MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=656814&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=656814&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=656814&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656474.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656474.html" target="_blank" id="">「(原創)SINKAN シンカン 」無碼/AVI/242MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=656474&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=656474&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=235660" class="bl">zwpn</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">15</td>
+	<td class="tal y-style"><a href="read.php?tid=656474&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656377.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656377.html" target="_blank" id="">「(原創)物語 Trans.1女体化したらナニをする？」有碼/MP4/114MB</a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=230808" class="bl">夜来鸟</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal y-style"><a href="read.php?tid=656377&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656216.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656216.html" target="_blank" id="">「(原創)BLACK GATE ブラックゲート 姦淫の学園中文字幕合集」 無碼/AVI/241MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=228664" class="bl">专修平房漏水</a>
+		<div class="f10">2011-12-08</div></td>
+	<td class="tal f10 y-style">3</td>
+	<td class="tal y-style"><a href="read.php?tid=656216&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656309.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656309.html" target="_blank" id="">「(原創)医辱 上下两集」無碼/RMVB/227MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=656309&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656289.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656289.html" target="_blank" id="">「(原創)夜勤病棟.参 三部合集」有碼/RMVB/390MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=656289&page=e&fpage=38#a" class="f10"> 2015-02-02 15:12 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656288.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656288.html" target="_blank" id="">「(原創)闭锁病栋(中文字幕)(13)」無碼/RMVB/232MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=656288&page=e&fpage=38#a" class="f10"> 2015-02-02 15:13 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656228.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656228.html" target="_blank" id="">「(原創)新 最終癡漢電車 三部合集」無碼/RMVB/369MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=656228&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=656228&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=656228&page=e&fpage=38#a" class="f10"> 2015-02-02 15:13 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/656074.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/656074.html" target="_blank" id="">「(原創)通勤快楽 痴漢でＧＯ！！」無碼/AVI/116MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">3</td>
+	<td class="tal y-style"><a href="read.php?tid=656074&page=e&fpage=38#a" class="f10"> 2015-02-02 15:13 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/655959.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/655959.html" target="_blank" id="">「(原創)特別授業2 後編」無碼/RMVB/128MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal y-style"><a href="read.php?tid=655959&page=e&fpage=38#a" class="f10"> 2015-02-02 15:14 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/655728.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/655728.html" target="_blank" id="">「(原創) 特別授業2 前編」無碼/RMVB/129MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=655728&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=655728&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233109" class="bl">感谢分享</a>
+		<div class="f10">2011-12-07</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=655728&page=e&fpage=38#a" class="f10"> 2015-02-02 15:14 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/655819.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/655819.html" target="_blank" id="">「(原創)经典回顾 爆乳母娘 中文字幕(11)」无码/RMVB/115MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=655819&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=655819&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-06</div></td>
+	<td class="tal f10 y-style">12</td>
+	<td class="tal y-style"><a href="read.php?tid=655819&page=e&fpage=38#a" class="f10"> 2015-02-02 15:14 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/654183.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/654183.html" target="_blank" id="">「(原創)義母義母」无码/MKV/386MB</a></h3> &nbsp;<font color=green>[積分+75]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=654183&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=654183&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=654183&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=654183&page=4&fpage=38' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-04</div></td>
+	<td class="tal f10 y-style">31</td>
+	<td class="tal y-style"><a href="read.php?tid=654183&page=e&fpage=38#a" class="f10"> 2015-02-02 16:27 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/653570.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/653570.html" target="_blank" id="">「(原創)淫母 -いんぼ」无码/MKV/100MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=653570&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=653570&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=653570&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-03</div></td>
+	<td class="tal f10 y-style">24</td>
+	<td class="tal y-style"><a href="read.php?tid=653570&page=e&fpage=38#a" class="f10"> 2015-02-02 16:27 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/652926.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/652926.html" target="_blank" id="">「(原創)えろげー！ Hもゲームも開発三昧 下」有码/MP4/109MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=652926&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=652926&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=68610" class="bl">牙医</a>
+		<div class="f10">2011-12-02</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=652926&page=e&fpage=38#a" class="f10"> 2015-02-02 16:27 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/652654.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/652654.html" target="_blank" id="">「(原創)前田俊夫---外道学園全集(中文字幕)」無碼/RMVB/774MB</a></h3> &nbsp;<font color=green>[積分+150]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=652654&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=652654&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=652654&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=652654&page=4&fpage=38' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-01</div></td>
+	<td class="tal f10 y-style">39</td>
+	<td class="tal y-style"><a href="read.php?tid=652654&page=e&fpage=38#a" class="f10"> 2015-02-02 16:27 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1112/652653.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1112/652653.html" target="_blank" id="">「(原創)女王様はＭ奴隷」有碼/AVI/320MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=652653&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=652653&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-12-01</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=652653&page=e&fpage=38#a" class="f10"> 2014-10-07 13:50 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/652228.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/652228.html" target="_blank" id="">「(原創)女捜査官はメス豚に堕ちた！」有碼/RMVB/116MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=652228&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=652228&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-30</div></td>
+	<td class="tal f10 y-style">15</td>
+	<td class="tal y-style"><a href="read.php?tid=652228&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/652227.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/652227.html" target="_blank" id="">「(原創)エスパー美少女まなみ」無碼/AVI/264MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=652227&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=652227&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-30</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=652227&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/651608.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/651608.html" target="_blank" id="">「(原創)淫魔制服狩り」有碼/RMVB/317MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=651608&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=651608&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-29</div></td>
+	<td class="tal f10 y-style">19</td>
+	<td class="tal y-style"><a href="read.php?tid=651608&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/651606.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/651606.html" target="_blank" id="">「(原創)寝取られファイター ヤリっちんぐ（中文字幕）」有碼/RMVB/90MB</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-29</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal y-style"><a href="read.php?tid=651606&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/651038.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/651038.html" target="_blank" id="">「(原創)麗辱の館 前後編(中文字幕)」有碼/MP4/100MB</a></h3> &nbsp;<font color=green>[積分+100]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=651038&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=651038&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=651038&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-28</div></td>
+	<td class="tal f10 y-style">21</td>
+	<td class="tal y-style"><a href="read.php?tid=651038&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/651037.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/651037.html" target="_blank" id="">「(原創)セックスクライム跟輪奸学園（中文字幕）」有碼/RMVB/222MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=651037&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=651037&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-28</div></td>
+	<td class="tal f10 y-style">15</td>
+	<td class="tal y-style"><a href="read.php?tid=651037&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/650540.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/650540.html" target="_blank" id="">「(原創)箱入少女-Virgin Territory- 上巻「理想のお嬢様」(中文字幕)」有碼/RMVB/80MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=650540&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=650540&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=650540&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-27</div></td>
+	<td class="tal f10 y-style">27</td>
+	<td class="tal y-style"><a href="read.php?tid=650540&page=e&fpage=38#a" class="f10"> 2014-10-07 13:46 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/650537.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/650537.html" target="_blank" id="">「(原創)河原崎家の一族[中文字幕]」無碼/RMVB/259MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=650537&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=650537&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=650537&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-27</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=650537&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/650178.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/650178.html" target="_blank" id="">「(原創)愛しの言霊1+2(中文字幕有)」有碼/RMVB/199MB</a></h3> &nbsp;<font color=green>[積分+200]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=650178&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=650178&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=650178&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-26</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=650178&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/650177.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/650177.html" target="_blank" id="">「(原創)こっとんど～る]それでも妻を爱してる 第一话(中文字幕)」有碼/MKV/171MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=650177&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=650177&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-26</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=650177&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/649592.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/649592.html" target="_blank" id="">「(原創)淫夢～生贄の宴～(中文字幕)」 無碼/MKV/240MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=649592&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=649592&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=649592&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-25</div></td>
+	<td class="tal f10 y-style">21</td>
+	<td class="tal y-style"><a href="read.php?tid=649592&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/649590.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/649590.html" target="_blank" id="">「(原創)義妹いもうと (中文字幕)」 無碼/RMVB/238MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=649590&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=649590&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=649590&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-25</div></td>
+	<td class="tal f10 y-style">20</td>
+	<td class="tal y-style"><a href="read.php?tid=649590&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/649099.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/649099.html" target="_blank" id="">「(原創)超昂闪忍(中文字幕)」薄碼/RMVB/104MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=649099&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=649099&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-24</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=649099&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/648586.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/648586.html" target="_blank" id="">「(原創)御神楽探偵団(中文字幕)」無碼/RMVB/391MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=648586&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=648586&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=648586&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-23</div></td>
+	<td class="tal f10 y-style">21</td>
+	<td class="tal y-style"><a href="read.php?tid=648586&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/648583.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/648583.html" target="_blank" id="">「(原創)炎の孕ませ転校生(中文字幕)」有碼/RMVB/382MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=648583&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=648583&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-23</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=648583&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/648013.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/648013.html" target="_blank" id="">「(原創)羨望と欲望の狭間～ 中文字幕」無碼/MKV/207MB</a></h3> &nbsp;<font color=green>[積分+50]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=648013&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=648013&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=648013&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-22</div></td>
+	<td class="tal f10 y-style">27</td>
+	<td class="tal y-style"><a href="read.php?tid=648013&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/648011.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/648011.html" target="_blank" id="">「(原創)成人卡通珍藏系列[內衣辦公室]」無碼/AVI/290MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=648011&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=648011&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=648011&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=648011&page=4&fpage=38' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-22</div></td>
+	<td class="tal f10 y-style">36</td>
+	<td class="tal y-style"><a href="read.php?tid=648011&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/647466.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/647466.html" target="_blank" id="">「(原創)制服诱惑全1(カミイラ)(中文字幕)」無碼/RMVB/134MB</a></h3> &nbsp;<font color=green>[積分+200]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=647466&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=647466&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=647466&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=647466&page=4&fpage=38' target='_blank'>4</a> <a href='read.php?tid=647466&page=5&fpage=38' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-21</div></td>
+	<td class="tal f10 y-style">41</td>
+	<td class="tal y-style"><a href="read.php?tid=647466&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/647172.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/647172.html" target="_blank" id="">「(原創)雛鳥の囀(中字)」無碼/MKV/728MB</a></h3> &nbsp;<font color=green>[積分+30]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=647172&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=647172&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=647172&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=222823" class="bl">小舅娘</a>
+		<div class="f10">2011-11-20</div></td>
+	<td class="tal f10 y-style">26</td>
+	<td class="tal y-style"><a href="read.php?tid=647172&page=e&fpage=38#a" class="f10"> 2015-02-02 16:28 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/646820.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/646820.html" target="_blank" id="">「(原創)殻の少女02(中文字幕)」有碼/RM/125MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=646820&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=646820&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=646820&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-20</div></td>
+	<td class="tal f10 y-style">20</td>
+	<td class="tal y-style"><a href="read.php?tid=646820&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/646819.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/646819.html" target="_blank" id="">「(原創)黒姫 -桎梏の館(中文字幕)」無碼/RMVB/243MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=646819&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=646819&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-20</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=646819&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/646321.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/646321.html" target="_blank" id="">「(原創)校园调教新体操仮(中文字幕)」無碼/RMVB/451MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=646321&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=646321&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=646321&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-19</div></td>
+	<td class="tal f10 y-style">25</td>
+	<td class="tal y-style"><a href="read.php?tid=646321&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/646298.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/646298.html" target="_blank" id="">「(原創) 学艶七不思議 [前編+後編]」 無修/AVI/481MB</a></h3> &nbsp;<font color=green>[積分+60]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=646298&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=646298&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=646298&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=98804" class="bl">侯为义</a>
+		<div class="f10">2011-11-19</div></td>
+	<td class="tal f10 y-style">20</td>
+	<td class="tal y-style"><a href="read.php?tid=646298&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/646104.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/646104.html" target="_blank" id="">「(原創)(人気アダルトアニメ動画)フーリガン[前編+後編]」 無修/AVI/731MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=646104&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=646104&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=98804" class="bl">侯为义</a>
+		<div class="f10">2011-11-19</div></td>
+	<td class="tal f10 y-style">19</td>
+	<td class="tal y-style"><a href="read.php?tid=646104&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/645787.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/645787.html" target="_blank" id="">「(原創)メイド召しませ麻彩(中文字幕)」無碼/MKV/248MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=645787&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=645787&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=645787&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=645787&page=4&fpage=38' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-18</div></td>
+	<td class="tal f10 y-style">31</td>
+	<td class="tal y-style"><a href="read.php?tid=645787&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/645785.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/645785.html" target="_blank" id="">「(原創)花粉少女注意報(中文字幕)」有碼/MKV/485MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=645785&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=645785&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-18</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=645785&page=e&fpage=38#a" class="f10"> 2015-02-02 14:25 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/645285.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/645285.html" target="_blank" id="">「(原創)極道の妻-～沼尻リエカ 好きモノ変態性癖が発覚！(中文字幕)」有碼/MP4/77MB</a></h3> &nbsp;<font color=green>[積分+75]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=645285&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=645285&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=645285&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-17</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=645285&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/644676.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/644676.html" target="_blank" id="">「(原創)彼女はケダモノ発情期ッ!発情巨乳(中文字幕)」有碼/MKV/132MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=644676&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=644676&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=644676&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=644676&page=4&fpage=38' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-16</div></td>
+	<td class="tal f10 y-style">36</td>
+	<td class="tal y-style"><a href="read.php?tid=644676&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/644674.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/644674.html" target="_blank" id="">「(原創)3D动画性玩偶」薄碼/AVI/252MB</a></h3> &nbsp;<font color=green>[積分+200]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=644674&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=644674&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=644674&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-16</div></td>
+	<td class="tal f10 y-style">26</td>
+	<td class="tal y-style"><a href="read.php?tid=644674&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/644077.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/644077.html" target="_blank" id="">「(原創)羞中恥療室」 无码/RMVB/200MB</a></h3> &nbsp;<font color=green>[積分+40]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=644077&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=644077&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=644077&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=644077&page=4&fpage=38' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233698" class="bl">真捣你的眼</a>
+		<div class="f10">2011-11-16</div></td>
+	<td class="tal f10 y-style">34</td>
+	<td class="tal y-style"><a href="read.php?tid=644077&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/644582.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/644582.html" target="_blank" id="">「(原创) [3D動畫]&nbsp; 調教 緊縛 凌辱 監禁」系列合集 薄碼/WMV/2.54 GB</a></h3> &nbsp;<font color=green>[積分+75]</font>  
+
+	<font color="red">[精]</font>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=644582&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=644582&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=644582&page=3&fpage=38' target='_blank'>3</a> <a href='read.php?tid=644582&page=4&fpage=38' target='_blank'>4</a> <a href='read.php?tid=644582&page=5&fpage=38' target='_blank'>5</a> <a href='read.php?tid=644582&page=6&fpage=38' target='_blank'>6</a> <a href='read.php?tid=644582&page=7&fpage=38' target='_blank'>7</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=218004" class="bl">磨叽</a>
+		<div class="f10">2011-11-16</div></td>
+	<td class="tal f10 y-style">67</td>
+	<td class="tal y-style"><a href="read.php?tid=644582&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/644135.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/644135.html" target="_blank" id="">「(原創)姫奴隷～牝へと堕ちゆく双子の王女～(中文字幕)」有碼/MKV/205MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=644135&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=644135&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=644135&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-15</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=644135&page=e&fpage=38#a" class="f10"> 2015-02-13 11:55 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/644134.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/644134.html" target="_blank" id="">「(原創)动画分享计划 同窗会[中文字幕]」無碼/RMVB/203MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=644134&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=644134&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-15</div></td>
+	<td class="tal f10 y-style">19</td>
+	<td class="tal y-style"><a href="read.php?tid=644134&page=e&fpage=38#a" class="f10"> 2015-02-13 12:00 </a><br />by: 愚人快乐</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/643714.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/643714.html" target="_blank" id="">「(原創)仕舞妻 ～姉妹妻3～中文」 無修/AVI/375MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=643714&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=643714&page=2&fpage=38' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=233698" class="bl">真捣你的眼</a>
+		<div class="f10">2011-11-15</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=643714&page=e&fpage=38#a" class="f10"> 2015-02-02 14:25 </a><br />by: 色桃</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/643544.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/643544.html" target="_blank" id="">「(原創)腹ボテクール雪乃～恥密に溢れる緩んだ恥穴(中文字幕)」有碼/MP4/118MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=643544&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=643544&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=643544&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-14</div></td>
+	<td class="tal f10 y-style">24</td>
+	<td class="tal y-style"><a href="read.php?tid=643544&page=e&fpage=38#a" class="f10"> 2015-02-13 11:57 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1111/642994.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[動畫]
+
+	<h3><a href="htm_data/5/1111/642994.html" target="_blank" id="">「(原創)麗辱の館(中文字幕)」有碼/MP4/100MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=642994&page=1&fpage=38' target='_blank'>1</a> <a href='read.php?tid=642994&page=2&fpage=38' target='_blank'>2</a> <a href='read.php?tid=642994&page=3&fpage=38' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=88028" class="bl">曾经最帅</a>
+		<div class="f10">2011-11-13</div></td>
+	<td class="tal f10 y-style">23</td>
+	<td class="tal y-style"><a href="read.php?tid=642994&page=e&fpage=38#a" class="f10"> 2015-02-13 11:58 </a><br />by: 碎词</td>
+	</tr>
+
+	<tr><td style="height:8px"></td>
+	</tr></tbody>
+</table></div>
+
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="left"><div class="pages"><a href="thread0806.php?fid=5&search=&type=1&page=1" style="font-weight:bold">＜</a><a href="thread0806.php?fid=5&search=&type=1&page=35">35</a><a href="thread0806.php?fid=5&search=&type=1&page=36">36</a><a href="thread0806.php?fid=5&search=&type=1&page=37">37</a><b> 38 </b><a href="thread0806.php?fid=5&search=&type=1&page=39">39</a><a href="thread0806.php?fid=5&search=&type=1&page=40">40</a><a href="thread0806.php?fid=5&search=&type=1&page=41">41</a><a href='thread0806.php?fid=5&search=&type=1&page=45'>45</a><a href='thread0806.php?fid=5&search=&type=1&page=39' style='font-weight:bold'>下一頁</a><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=5&search=&type=1&page='+this.value;return false;}"><a href="thread0806.php?fid=5&search=&type=1&page=45" style="font-weight:bold">＞</a></div></td>
+	<form name="jump" method="post">
+		<td align="right"><a href="profile.php?action=forumright&fid=5" title="查看您在本版塊的權限">版塊權限查看</a>&nbsp;
+		<select onchange="window.location='thread0806.php?fid='+this.options[this.selectedIndex].value"><option value="" selected>快速跳至</option>
+<option value="1">>> BT電影下載</option>
+<option value="2"> &nbsp;|- 亞洲無碼原創區</option>
+<option value="17"> &nbsp; &nbsp;|-  亞洲無碼轉帖交流區</option>
+<option value="15"> &nbsp;|- 亞洲有碼原創區</option>
+<option value="18"> &nbsp; &nbsp;|-  亞洲有碼轉帖交流區</option>
+<option value="4"> &nbsp;|- 歐美原創區</option>
+<option value="19"> &nbsp; &nbsp;|-  歐美轉帖交流區</option>
+<option value="5"> &nbsp;|- 動漫原創區</option>
+<option value="24"> &nbsp; &nbsp;|-  動漫轉帖區</option>
+<option value="21"> &nbsp;|- HTTP下載區</option>
+<option value="22"> &nbsp;|- 在綫成人影院</option>
+<option value="10"> &nbsp;|- 草榴影視庫</option>
+<option value="11"> &nbsp; &nbsp;|-  亞洲區</option>
+<option value="12"> &nbsp; &nbsp;|-  歐美區</option>
+<option value="13"> &nbsp; &nbsp;|-  動漫區</option>
+<option value="14"> &nbsp; &nbsp;|-  圖片區</option>
+<option value="23"> &nbsp; &nbsp;|-  博彩區</option>
+<option value="6">>> 草榴休閑區</option>
+<option value="7"> &nbsp;|- 技術討論區</option>
+<option value="8"> &nbsp;|- 新時代的我們</option>
+<option value="16"> &nbsp;|- 達蓋爾的旗幟</option>
+<option value="20"> &nbsp;|- 成人文學交流區</option>
+<option value="9"> &nbsp;|- 草榴資訊</option>
+		
+		</select></td>
+	</form>
+	</tr>
+	<tr valign="top">
+		<form action="thread0806.php" method="get">
+		<td style="vertical-align:middle;">
+		<input type="hidden" name="fid" value="5"/>
+		<select name="search">
+			<option value="">所有主題</option>
+			<option value="digest">本版精華區</option>
+			<option value="1">1天內的主題</option>
+			<option value="2">2天內的主題</option>
+			<option value="7">1星期內的主題</option>
+			<option value="30">1個月內的主題</option>
+			<option value="60">2個月內的主題</option>
+			<option value="90">3個月內的主題</option>
+			<option value="180">6個月內的主題</option>
+			<option value="365">1年內的主題</option>
+		</select>
+
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</td>
+	</form>
+	</tr>
+</table></div>
+
+</div>
+<center class="gray">
+<br />用時 0.06(s) x2, 02-28 15:14,   <a href='mobile.php?ismobile=no'>電腦版</a> <a href='mobile.php?ismobile=yes'>手機版</a><br />
+<div style='margin-left:-9999px;'><script src='http://s103.cnzz.com/stat.php?id=950900&web_id=950900&online=1&show=line' language='JavaScript' charset='gb2312'></script></div>
+</center><br />
+</body></html>
+

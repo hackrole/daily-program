@@ -1,0 +1,18 @@
+X-Debug-Icache: HIT(75434, 12.22)
+Powered-By-Chinacache: HIT from CHN-QX-f-3WH.1
+Powered-By-Chinacache: MISS from CHN-JA-g-3WG.1
+X-Debug-Idc: GZ
+X-Powered-By: PHP/5.2.14
+X-Via-Cdn: f=cc,s=CHN-QX-f-3WH.1;CHN-JA-g-3WG.1,c=116.226.202.248
+Age: 275519
+Expires: Tue, 26 May 2015 04:11:06 GMT
+Sina-Lb: aGEuNDAuZzEuc2h4LmxiLnNpbmFub2RlLmNvbQ==
+Server: weibo_img-CL2-l2tva-003
+Last-Modified: Wed, 25 Feb 2015 04:11:06 GMT
+Switch: FSCS
+Sina-Ts: ZGFkYzk4Y2UgMCAwIDAgOCAwCg==
+Pragma: public
+Cache-Control: max-age=7776000
+Date: Wed, 25 Feb 2015 04:11:06 GMT
+Content-Type: image/jpeg
+X-Debug-Dom: 20150225121106-1424837466

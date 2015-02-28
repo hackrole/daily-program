@@ -1,0 +1,370 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title> 動漫原創區 草榴社區  - powered by phpwind.net</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<base href="http://cl.yyq.im/" />
+<link rel="stylesheet" href="http://173.236.54.236/style.css?v=1.92" type="text/css" />
+</head><body>
+
+<div id="header">
+<div class="banner" style="padding-left:5px;"><a href="../../../"><FONT SIZE="7" COLOR="white"><B>草榴社區</B></FONT></a></div>
+<div class="h guide" colspan="2">&raquo;
+
+	<!--mb-->您尚未　<a href="login.php">登錄</a> &nbsp;<a href="register.php"><b>註冊</b></a><!--mbend-->
+
+	| <a href="search.php">搜索</a> | <a style="cursor:pointer;" id="td_hack" onClick="click_open('menu_hack','td_hack');" onMouseOver="mouseover_open('menu_hack','td_hack');">社區服務</a>
+
+	| <a href="hack.php?H_name=bank">银行</a>
+
+	| <a href="hack.php?H_name=invite">邀请注册</a>
+
+	| <a href="faq.php">幫助</a>
+
+</div>
+<div id="showmenu" style="z-index:100;display:none;"></div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">社區服務</th></tr>
+
+</table></div>
+
+<div id="blank" style="height:10px; clear:both"></div>
+</div>
+<div id="main">
+
+<div class="t3" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td>.:. <a href="index.php">草榴社區</a> &raquo; <a href="thread0806.php?fid=5">動漫原創區</a> (<a href="rss.php?fid=5" target="_blank" title="RSS訂閱本版面最新帖子">RSS</a>)</td></tr>
+</table></div>
+
+<!--ads begin-->
+
+<!--ads end-->
+
+<div class="t">
+<table cellspacing="0" cellpadding="0" width="100%">
+	<tr><td class="h" colspan="5"><b>子版塊</b></td>
+	</tr>
+	<tr></tr>
+	<tr class="tr2"><td width="5%">&nbsp;</td><td width="*">論壇</td><td width="10%" class="y-style">版主</td><td width="12%" class="y-style">文章</td><td width="17%" class="y-style">最後發表</td>
+	</tr>
+	<!-- -->
+	<tr class="f_one tr3" onMouseOver="this.className='f_two tr3'" onMouseOut="this.className='f_one tr3'" ><td align="center" valign="middle" class="y-style"><a href="thread0806.php?fid=24" target="_blank">.:.</a> </td>
+	<th align="left"> <a class="bklogo" href="thread0806.php?fid=24" target="_blank"></a>
+		<h2><a href="thread0806.php?fid=24" class="fnamecolor a1"> <b>動漫轉帖區</b></a></h2><br /><span class="smalltxt"></span> </th>
+	<td align="center" style="word-break:keep-all" class="y-style">
+		<a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+		
+		&nbsp;</td>
+	<td class="f10 y-style">15370</td>
+	<th class="smalltxt y-style" title="2015-02-28 14:46"> 
+		<h3><a href="read.php?tid=1395590&page=e#a">「[150227][ZIZ]ボク ..</a></h3><br />mini_zuo
+
+	</th></tr>
+	
+	<tr><td style="height:8px"></td>
+	</tr></table></div>
+
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="left" valign="middle"></td><td style="text-align:right"><a href="post.php?fid=5"> 發布主題</a>
+
+	<a href="post.php?fid=5&special=1">投票</a>
+</td>
+	</tr>
+</table></div>
+<div class="t" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	
+	<tr><th class="h" colspan="5" style="width:100%"><a class="fr a2 fn" href="thread0806.php?fid=5">所有主題</a> <a class="fr a2 fn" href="thread0806.php?fid=5&search=digest">精華主題</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=1">動畫</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=2">漫畫</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=3">遊戲</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=4"><b>公告</b></a>
+
+		<a href="thread0806.php?fid=5">動漫原創區</a><span>　版主:
+
+		&nbsp;<a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+
+		</span></th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2">
+	<td class="tac y-style">狀態</td>
+	<td style="width:62%" class="tac">文章</td>
+	<td style="width:10%" class="y-style">作者</td>
+	<td style="width:6%" class="y-style">回復</td>
+	<td style="width:17%" class="y-style">最後發表</td>
+	</tr>
+
+	<tr align="middle" class="tr3 t_two" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td class="y-style">***</td><th>&nbsp論壇公告: <h3><a href="notice.php?fid=-1#1" class="black">■■■ 來訪者必看的內容 - 使你更快速上手 <隨時更新> ■■■</a></h3></th><td class="tal y-style"><a href="profile.php?action=show&username=administrator" class="bl">administrator</a></td><td colspan="2" class="y-style"><a href="notice.php?fid=-1">論壇公告</a></td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="read.php?tid=5877" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+		↑3
+
+	
+
+	<h3><a href="read.php?tid=5877" target="_blank" id=""><b><font color=red>草榴最新地址發布頁 & 大陸入口 & 永久域名 ** 必須加入收藏夾 12.30更新</font></b></a></h3>  
+
+	&nbsp;<I style=color:red>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=5877&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=5877&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=5877&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=5877&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=5877&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=5877&page=518&fpage=1' target='_blank'>518</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=62" class="bl">vonder</a>
+		<div class="f10">2006-12-17</div></td>
+	<td class="tal f10 y-style">5178</td>
+	<td class="tal y-style"><a href="read.php?tid=5877&page=e&fpage=1#a" class="f10"> 2015-02-28 14:17 </a><br />by: guyuivw</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="read.php?tid=1315" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+		↑3
+
+	
+
+	<h3><a href="read.php?tid=1315" target="_blank" id=""><u><b><font color=red>危險警告III, 關于最近病毒猖狂, 更新圖解說明! 下載前必看!</font></b></u></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=1315&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=1315&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=1315&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=1315&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=1315&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=1315&page=234&fpage=1' target='_blank'>234</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=62" class="bl">vonder</a>
+		<div class="f10">2006-11-17</div></td>
+	<td class="tal f10 y-style">2339</td>
+	<td class="tal y-style"><a href="read.php?tid=1315&page=e&fpage=1#a" class="f10"> 2015-02-27 12:23 </a><br />by: xiaxfeng</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/2/1111/30611.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+		↑2
+
+	
+
+	<h3><a href="htm_data/2/1111/30611.html" target="_blank" id=""><b>亞洲區/歐美區 發帖注意事項&#160; &#160; 2012.12.21更新</b></a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=62" class="bl">vonder</a>
+		<div class="f10">2011-11-29</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal y-style"><a href="read.php?tid=30611&page=e&fpage=1#a" class="f10"> 2014-01-20 18:36 </a><br />by: 鄧強</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/517566.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1106/517566.html" target="_blank" id=""><font color=red>= = = = = 動漫區版規 = = = = =</font></a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=85524" class="bl">動漫區</a>
+		<div class="f10">2011-06-05</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal y-style"><a href="read.php?tid=517566&page=e&fpage=1#a" class="f10"> 2011-06-05 01:23 </a><br />by: 動漫區</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/517564.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1106/517564.html" target="_blank" id="">= = = = = 動漫求片區 = = = = =</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=517564&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=517564&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=517564&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=517564&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=517564&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=517564&page=115&fpage=1' target='_blank'>115</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=85524" class="bl">動漫區</a>
+		<div class="f10">2011-06-05</div></td>
+	<td class="tal f10 y-style">1149</td>
+	<td class="tal y-style"><a href="read.php?tid=517564&page=e&fpage=1#a" class="f10"> 2015-02-28 00:07 </a><br />by: will2u</td>
+	</tr>
+
+	<tr class="tr2"><td colspan="6" class="tac" style="border-top:0">普通主題</td></tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1511/928431.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1511/928431.html" target="_blank" id=""><b><font color=red>「[注意事項更新帖!] 有關發帖公告 &quot;原創文本及標題等&quot; 2014-11-16」</font></b></a></h3>  
+
+	&nbsp;<I style=color:red>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=928431&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=928431&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=928431&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=928431&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=928431&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=928431&page=14&fpage=1' target='_blank'>14</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=1425" class="bl">avjap</a>
+		<div class="f10">Top-marks</div></td>
+	<td class="tal f10 y-style">133</td>
+	<td class="tal y-style"><a href="read.php?tid=928431&page=e&fpage=1#a" class="f10"> 2015-02-28 15:10 </a><br />by: 咬字左右读</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1502/1281446.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1502/1281446.html" target="_blank" id=""><b><font color=blue>「開始嚴查出種情況並相關說明 2014-11-30」</font></b></a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=1425" class="bl">avjap</a>
+		<div class="f10">2015-02-25</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal y-style"><a href="read.php?tid=1281446&page=e&fpage=1#a" class="f10"> 2015-02-25 00:00 </a><br />by: avjap</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1411/1294845.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1411/1294845.html" target="_blank" id="">「(原创)[新堂エル]TSF_物語（1-4+番外）全集」 中文/无码/JPG/110MB</a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=1294845&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=1294845&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=1294845&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=309843" class="bl">恋上你的鲍鱼</a>
+		<div class="f10">2014-11-29</div></td>
+	<td class="tal f10 y-style">29</td>
+	<td class="tal y-style"><a href="read.php?tid=1294845&page=e&fpage=1#a" class="f10"> 2015-02-26 05:22 </a><br />by: 天空很蓝</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1108/573486.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1108/573486.html" target="_blank" id=""><u><font color=red>「各位原創會員請多留意下」</font></u></a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=85524" class="bl">動漫區</a>
+		<div class="f10">2011-08-06</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal y-style"><a href="read.php?tid=573486&page=e&fpage=1#a" class="f10"> 2011-08-06 11:09 </a><br />by: 動漫區</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1107/556210.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1107/556210.html" target="_blank" id=""><u><b><font color=blue>「近幾日大陸某些地域種子無法提取的解決辦法」</font></b></u></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=556210&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=556210&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=556210&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=556210&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=556210&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=85524" class="bl">動漫區</a>
+		<div class="f10">2011-07-14</div></td>
+	<td class="tal f10 y-style">48</td>
+	<td class="tal y-style"><a href="read.php?tid=556210&page=e&fpage=1#a" class="f10"> 2014-10-07 18:20 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/533884.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[公告]
+
+	<h3><a href="htm_data/5/1106/533884.html" target="_blank" id=""><b><font color=red>「各位會員在發帖和回帖時請注意」</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=533884&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=533884&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=533884&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=533884&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=533884&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=85524" class="bl">動漫區</a>
+		<div class="f10">2011-06-17</div></td>
+	<td class="tal f10 y-style">43</td>
+	<td class="tal y-style"><a href="read.php?tid=533884&page=e&fpage=1#a" class="f10"> 2014-10-07 21:31 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr><td style="height:8px"></td>
+	</tr></tbody>
+</table></div>
+
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="left"></td>
+	<form name="jump" method="post">
+		<td align="right"><a href="profile.php?action=forumright&fid=5" title="查看您在本版塊的權限">版塊權限查看</a>&nbsp;
+		<select onchange="window.location='thread0806.php?fid='+this.options[this.selectedIndex].value"><option value="" selected>快速跳至</option>
+<option value="1">>> BT電影下載</option>
+<option value="2"> &nbsp;|- 亞洲無碼原創區</option>
+<option value="17"> &nbsp; &nbsp;|-  亞洲無碼轉帖交流區</option>
+<option value="15"> &nbsp;|- 亞洲有碼原創區</option>
+<option value="18"> &nbsp; &nbsp;|-  亞洲有碼轉帖交流區</option>
+<option value="4"> &nbsp;|- 歐美原創區</option>
+<option value="19"> &nbsp; &nbsp;|-  歐美轉帖交流區</option>
+<option value="5"> &nbsp;|- 動漫原創區</option>
+<option value="24"> &nbsp; &nbsp;|-  動漫轉帖區</option>
+<option value="21"> &nbsp;|- HTTP下載區</option>
+<option value="22"> &nbsp;|- 在綫成人影院</option>
+<option value="10"> &nbsp;|- 草榴影視庫</option>
+<option value="11"> &nbsp; &nbsp;|-  亞洲區</option>
+<option value="12"> &nbsp; &nbsp;|-  歐美區</option>
+<option value="13"> &nbsp; &nbsp;|-  動漫區</option>
+<option value="14"> &nbsp; &nbsp;|-  圖片區</option>
+<option value="23"> &nbsp; &nbsp;|-  博彩區</option>
+<option value="6">>> 草榴休閑區</option>
+<option value="7"> &nbsp;|- 技術討論區</option>
+<option value="8"> &nbsp;|- 新時代的我們</option>
+<option value="16"> &nbsp;|- 達蓋爾的旗幟</option>
+<option value="20"> &nbsp;|- 成人文學交流區</option>
+<option value="9"> &nbsp;|- 草榴資訊</option>
+		
+		</select></td>
+	</form>
+	</tr>
+	<tr valign="top">
+		<form action="thread0806.php" method="get">
+		<td style="vertical-align:middle;">
+		<input type="hidden" name="fid" value="5"/>
+		<select name="search">
+			<option value="">所有主題</option>
+			<option value="digest">本版精華區</option>
+			<option value="1">1天內的主題</option>
+			<option value="2">2天內的主題</option>
+			<option value="7">1星期內的主題</option>
+			<option value="30">1個月內的主題</option>
+			<option value="60">2個月內的主題</option>
+			<option value="90">3個月內的主題</option>
+			<option value="180">6個月內的主題</option>
+			<option value="365">1年內的主題</option>
+		</select>
+
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</td>
+	</form>
+	</tr>
+</table></div>
+
+</div>
+<center class="gray">
+<br />用時 0.04(s) x3, 02-28 15:10,   <a href='mobile.php?ismobile=no'>電腦版</a> <a href='mobile.php?ismobile=yes'>手機版</a><br />
+<div style='margin-left:-9999px;'><script src='http://s103.cnzz.com/stat.php?id=950900&web_id=950900&online=1&show=line' language='JavaScript' charset='gb2312'></script></div>
+</center><br />
+</body></html>
+

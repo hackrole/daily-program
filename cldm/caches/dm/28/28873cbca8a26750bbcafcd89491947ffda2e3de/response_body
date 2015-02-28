@@ -1,0 +1,1398 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title> 動漫原創區 草榴社區  - powered by phpwind.net</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<base href="http://cl.yyq.im/" />
+<link rel="stylesheet" href="http://173.236.54.236/style.css?v=1.92" type="text/css" />
+</head><body>
+
+<div id="header">
+<div class="banner" style="padding-left:5px;"><a href="../../../"><FONT SIZE="7" COLOR="white"><B>草榴社區</B></FONT></a></div>
+<div class="h guide" colspan="2">&raquo;
+
+	<!--mb-->您尚未　<a href="login.php">登錄</a> &nbsp;<a href="register.php"><b>註冊</b></a><!--mbend-->
+
+	| <a href="search.php">搜索</a> | <a style="cursor:pointer;" id="td_hack" onClick="click_open('menu_hack','td_hack');" onMouseOver="mouseover_open('menu_hack','td_hack');">社區服務</a>
+
+	| <a href="hack.php?H_name=bank">银行</a>
+
+	| <a href="hack.php?H_name=invite">邀请注册</a>
+
+	| <a href="faq.php">幫助</a>
+
+</div>
+<div id="showmenu" style="z-index:100;display:none;"></div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">社區服務</th></tr>
+
+</table></div>
+
+<div id="blank" style="height:10px; clear:both"></div>
+</div>
+<div id="main">
+
+<div class="t3" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td>.:. <a href="index.php">草榴社區</a> &raquo; <a href="thread0806.php?fid=5">動漫原創區</a> (<a href="rss.php?fid=5" target="_blank" title="RSS訂閱本版面最新帖子">RSS</a>)</td></tr>
+</table></div>
+
+<!--ads begin-->
+
+<!--ads end-->
+
+<div class="t">
+<table cellspacing="0" cellpadding="0" width="100%">
+	<tr><td class="h" colspan="5"><b>子版塊</b></td>
+	</tr>
+	<tr></tr>
+	<tr class="tr2"><td width="5%">&nbsp;</td><td width="*">論壇</td><td width="10%" class="y-style">版主</td><td width="12%" class="y-style">文章</td><td width="17%" class="y-style">最後發表</td>
+	</tr>
+	<!-- -->
+	<tr class="f_one tr3" onMouseOver="this.className='f_two tr3'" onMouseOut="this.className='f_one tr3'" ><td align="center" valign="middle" class="y-style"><a href="thread0806.php?fid=24" target="_blank">.:.</a> </td>
+	<th align="left"> <a class="bklogo" href="thread0806.php?fid=24" target="_blank"></a>
+		<h2><a href="thread0806.php?fid=24" class="fnamecolor a1"> <b>動漫轉帖區</b></a></h2><br /><span class="smalltxt"></span> </th>
+	<td align="center" style="word-break:keep-all" class="y-style">
+		<a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+		
+		&nbsp;</td>
+	<td class="f10 y-style">15370</td>
+	<th class="smalltxt y-style" title="2015-02-28 14:46"> 
+		<h3><a href="read.php?tid=1395590&page=e#a">「[150227][ZIZ]ボク ..</a></h3><br />mini_zuo
+
+	</th></tr>
+	
+	<tr><td style="height:8px"></td>
+	</tr></table></div>
+
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="left" valign="middle"><div class="pages"><a href="thread0806.php?fid=5&search=&type=2&page=1" style="font-weight:bold">＜</a><a href="thread0806.php?fid=5&search=&type=2&page=14">14</a><a href="thread0806.php?fid=5&search=&type=2&page=15">15</a><a href="thread0806.php?fid=5&search=&type=2&page=16">16</a><b> 17 </b><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=5&search=&type=2&page='+this.value;return false;}"><a href="thread0806.php?fid=5&search=&type=2&page=17" style="font-weight:bold">＞</a></div></td><td style="text-align:right"><a href="post.php?fid=5"> 發布主題</a>
+
+	<a href="post.php?fid=5&special=1">投票</a>
+</td>
+	</tr>
+</table></div>
+<div class="t" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	
+	<tr><th class="h" colspan="5" style="width:100%"><a class="fr a2 fn" href="thread0806.php?fid=5">所有主題</a> <a class="fr a2 fn" href="thread0806.php?fid=5&search=digest">精華主題</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=1">動畫</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=2"><b>漫畫</b></a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=3">遊戲</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=5&type=4">公告</a>
+
+		<a href="thread0806.php?fid=5">動漫原創區</a><span>　版主:
+
+		&nbsp;<a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+
+		</span></th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2">
+	<td class="tac y-style">狀態</td>
+	<td style="width:62%" class="tac">文章</td>
+	<td style="width:10%" class="y-style">作者</td>
+	<td style="width:6%" class="y-style">回復</td>
+	<td style="width:17%" class="y-style">最後發表</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/537502.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/537502.html" target="_blank" id=""><b><font color=red>「(原創)[SHIUN][らぶいちゃ☆][島民][中漫]」小黑条/JPG/96MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=537502&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=537502&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-20</div></td>
+	<td class="tal f10 y-style">19</td>
+	<td class="tal y-style"><a href="read.php?tid=537502&page=e&fpage=17#a" class="f10"> 2014-12-01 13:16 </a><br />by: 红色石头</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/537498.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/537498.html" target="_blank" id=""><b><font color=red>「(原創)[美夜川 はじめ][乙女の悪戯][IN][中漫]」小黑条/JPG/103MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=537498&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=537498&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-20</div></td>
+	<td class="tal f10 y-style">18</td>
+	<td class="tal y-style"><a href="read.php?tid=537498&page=e&fpage=17#a" class="f10"> 2014-11-06 21:30 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/537494.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/537494.html" target="_blank" id=""><b><font color=red>「(原創)[徳田しんのすけ][ぷにまつり][中漫]」小黑条/JPG/171MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=537494&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=537494&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=537494&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-20</div></td>
+	<td class="tal f10 y-style">23</td>
+	<td class="tal y-style"><a href="read.php?tid=537494&page=e&fpage=17#a" class="f10"> 2015-01-18 13:20 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/537491.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/537491.html" target="_blank" id=""><b><font color=red>「(原創)[らっこ][ムリクリ][w1234][中漫]」小黑条/JPG/100MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=537491&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=537491&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-20</div></td>
+	<td class="tal f10 y-style">15</td>
+	<td class="tal y-style"><a href="read.php?tid=537491&page=e&fpage=17#a" class="f10"> 2014-10-07 22:01 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/537487.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/537487.html" target="_blank" id=""><b><font color=red>「(原創)[しらんたかし][仔づくりゴッコ][sa][中漫]」小黑条/JPG/81MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=537487&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=537487&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-20</div></td>
+	<td class="tal f10 y-style">18</td>
+	<td class="tal y-style"><a href="read.php?tid=537487&page=e&fpage=17#a" class="f10"> 2015-01-11 16:46 </a><br />by: 形于涩</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/536105.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/536105.html" target="_blank" id=""><b><font color=red>「(原創)秋子阿姨（5集+sweet jam）[中漫]」小黑条/JPG/114MB</font></b></a></h3> &nbsp;<font color=green>[積分+25]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=536105&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=536105&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=536105&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=536105&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=98804" class="bl">侯为义</a>
+		<div class="f10">2011-06-19</div></td>
+	<td class="tal f10 y-style">37</td>
+	<td class="tal y-style"><a href="read.php?tid=536105&page=e&fpage=17#a" class="f10"> 2014-10-07 21:54 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/534260.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/534260.html" target="_blank" id=""><b><font color=red>「(原創)[艶々][密やかに熟れる花][裏之夢境][中漫][青]」小黑条/JPG/66MB</font></b></a></h3> &nbsp;<font color=green>[積分+100]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=534260&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=534260&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=534260&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=534260&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=534260&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-17</div></td>
+	<td class="tal f10 y-style">40</td>
+	<td class="tal y-style"><a href="read.php?tid=534260&page=e&fpage=17#a" class="f10"> 2014-10-08 05:24 </a><br />by: 少侠i别走</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/534256.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/534256.html" target="_blank" id=""><b><font color=red>「(原創)[イコール][ましゅまろフィアンセ][damage521&收工是巴啦斯][中漫]」小黑条/JPG/131MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=534256&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=534256&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=534256&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-17</div></td>
+	<td class="tal f10 y-style">20</td>
+	<td class="tal y-style"><a href="read.php?tid=534256&page=e&fpage=17#a" class="f10"> 2014-10-07 21:34 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/534253.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/534253.html" target="_blank" id=""><b><font color=red>「(原創)[zen9][櫻の園][悠月工房][中漫][青]」小黑条/JPG/57MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=534253&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=534253&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-17</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=534253&page=e&fpage=17#a" class="f10"> 2014-10-07 21:34 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/534251.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/534251.html" target="_blank" id=""><b><font color=red>「(原創)[NO.ゴメス][グラビティ_ダイ][X][中漫]」小黑条/JPG/97MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=534251&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=534251&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-17</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=534251&page=e&fpage=17#a" class="f10"> 2015-01-18 13:23 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/532900.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/532900.html" target="_blank" id=""><b><font color=red>「(原创)[TYPE90]ああ、七瀬さま（中字）」小黑条/JPG/64.1 MB</font></b></a></h3> &nbsp;<font color=green>[積分+50]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=532900&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=532900&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=532900&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=532900&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=112442" class="bl">疯狼</a>
+		<div class="f10">2011-06-16</div></td>
+	<td class="tal f10 y-style">32</td>
+	<td class="tal y-style"><a href="read.php?tid=532900&page=e&fpage=17#a" class="f10"> 2014-11-30 05:30 </a><br />by: Judins</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/532880.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/532880.html" target="_blank" id=""><b><font color=red>「(原创)[DISTANCE] HHH」无码/JPG/244MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=532880&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=532880&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=532880&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=112442" class="bl">疯狼</a>
+		<div class="f10">2011-06-16</div></td>
+	<td class="tal f10 y-style">21</td>
+	<td class="tal y-style"><a href="read.php?tid=532880&page=e&fpage=17#a" class="f10"> 2015-01-18 13:25 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/532419.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/532419.html" target="_blank" id=""><b><font color=red>「(原創)4月中文漫画整理合集19部」小黑条/JPG/1.55GB</font></b></a></h3> &nbsp;<font color=green>[積分+50]</font>  
+
+	<font color="red">[精]</font>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=532419&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=532419&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=532419&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=532419&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=532419&page=5&fpage=17' target='_blank'>5</a> <a href='read.php?tid=532419&page=6&fpage=17' target='_blank'>6</a> <a href='read.php?tid=532419&page=7&fpage=17' target='_blank'>7</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">66</td>
+	<td class="tal y-style"><a href="read.php?tid=532419&page=e&fpage=17#a" class="f10"> 2014-10-07 21:14 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531982.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531982.html" target="_blank" id=""><b><font color=red>「(原創)濑奈阳太郎 妹？！(中文)」无码/JPG/63.4MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531982&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531982&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=216168" class="bl">满城尽黑丝</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">15</td>
+	<td class="tal y-style"><a href="read.php?tid=531982&page=e&fpage=17#a" class="f10"> 2015-01-18 13:28 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531953.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531953.html" target="_blank" id=""><b><font color=red>「(原創)初犬 VOL.1~3(中文)」小黑條/JPG/214MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531953&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531953&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=216168" class="bl">满城尽黑丝</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=531953&page=e&fpage=17#a" class="f10"> 2014-12-30 13:18 </a><br />by: Ycaxcl、</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531916.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531916.html" target="_blank" id=""><b><font color=red>「(原創)水着彼女(中文)」小黑條/JPG/93.8MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531916&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531916&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=216168" class="bl">满城尽黑丝</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=531916&page=e&fpage=17#a" class="f10"> 2014-12-30 16:57 </a><br />by: Ycaxcl、</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531781.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531781.html" target="_blank" id=""><b><font color=red>「(原創)会長(中文)」小黑條/JPG/76MB</font></b></a></h3> &nbsp;<font color=green>[積分+156]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531781&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531781&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=531781&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=531781&page=e&fpage=17#a" class="f10"> 2015-01-21 14:46 </a><br />by: 第七种男人</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531778.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531778.html" target="_blank" id=""><b><font color=red>「(原創)[時丸佳久]淫刑執行(中文)」JPG/85MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531778&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531778&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=531778&page=e&fpage=17#a" class="f10"> 2014-11-06 21:20 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531775.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531775.html" target="_blank" id=""><b><font color=red>「(原創)[6.13新本][ハッチ]小學生(中文)」JPG/76MB</font></b></a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">9</td>
+	<td class="tal y-style"><a href="read.php?tid=531775&page=e&fpage=17#a" class="f10"> 2012-10-17 08:21 </a><br />by: MITAO</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531772.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531772.html" target="_blank" id=""><b><font color=red>「(原創)[神馬耶樹]發情少女(中文)」小黑條/JPG/109MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531772&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531772&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">12</td>
+	<td class="tal y-style"><a href="read.php?tid=531772&page=e&fpage=17#a" class="f10"> 2014-11-06 21:09 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531619.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531619.html" target="_blank" id=""><b><font color=red>「(原創)[蛇光院三郎]家族耽亂(中文)」JPG/81MB</font></b></a></h3> &nbsp;<font color=green>[積分+195]</font>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal y-style"><a href="read.php?tid=531619&page=e&fpage=17#a" class="f10"> 2015-01-18 13:28 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531612.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531612.html" target="_blank" id=""><b><font color=red>「(原創)淫欲百貨店(中文)」小黑條/JPG/53MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531612&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531612&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">18</td>
+	<td class="tal y-style"><a href="read.php?tid=531612&page=e&fpage=17#a" class="f10"> 2014-11-06 21:18 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531609.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531609.html" target="_blank" id=""><b><font color=red>「(原創)發情三姐妹(中文)」小黑條/JPG/158MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531609&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531609&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=531609&page=e&fpage=17#a" class="f10"> 2015-01-21 14:46 </a><br />by: 第七种男人</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531593.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531593.html" target="_blank" id=""><b><font color=red>「(原創)お嬢样はH(中文)」小黑條/JPG/161MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531593&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531593&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=531593&page=e&fpage=17#a" class="f10"> 2015-01-18 13:28 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/531588.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/531588.html" target="_blank" id=""><b><font color=red>「(原創)近親烤姦(中文)」JPG/80MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=531588&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=531588&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-15</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=531588&page=e&fpage=17#a" class="f10"> 2014-11-06 21:09 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530941.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530941.html" target="_blank" id=""><b><font color=red>「(原創)[木谷椎]乙女の恋愛情事[C][悠月工房]」小黑条/JPG/61MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530941&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530941&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=530941&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">25</td>
+	<td class="tal y-style"><a href="read.php?tid=530941&page=e&fpage=17#a" class="f10"> 2014-10-07 22:54 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530940.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530940.html" target="_blank" id=""><b><font color=red>「(原創)[木谷椎] どっちもLOVE！[水晶海]」小黑条/JPG/56MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530940&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530940&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=530940&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=530940&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">32</td>
+	<td class="tal y-style"><a href="read.php?tid=530940&page=e&fpage=17#a" class="f10"> 2015-01-18 13:29 </a><br />by: ML麦刘</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530922.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530922.html" target="_blank" id=""><b><font color=red>「(原創)[あろうれい][フラット 第01巻 第02巻][悠月工房] 」小黑条/JPG/149MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530922&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530922&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=530922&page=e&fpage=17#a" class="f10"> 2014-10-07 22:52 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530536.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530536.html" target="_blank" id=""><b><font color=red>「(原創)[飛龍亂]乱伦巨作高清优质画风中文全集（九部）」无码/JPG/326MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530536&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530536&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=530536&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=530536&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=530536&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=85948" class="bl">ymteh</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">49</td>
+	<td class="tal y-style"><a href="read.php?tid=530536&page=e&fpage=17#a" class="f10"> 2014-11-06 21:11 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530508.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530508.html" target="_blank" id=""><b><font color=red>「(原創)[フクダーダ] 相思相愛ノート 2 」小黑条/JPG/127MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530508&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530508&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=530508&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=218085" class="bl">ERO</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">27</td>
+	<td class="tal y-style"><a href="read.php?tid=530508&page=e&fpage=17#a" class="f10"> 2014-10-27 12:47 </a><br />by: 归隐山林</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530500.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530500.html" target="_blank" id=""><b><font color=red>「(原創)[あべもりおか] はり×2はに～(濃毛小甜心)」小黑条/JPG/178MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530500&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530500&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=218085" class="bl">ERO</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=530500&page=e&fpage=17#a" class="f10"> 2014-11-06 21:12 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/530192.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/530192.html" target="_blank" id=""><b><font color=red>「(原創)[こがいの][えろせく！][X][中漫]」小黑条/JPG/109MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=530192&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=530192&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=218085" class="bl">ERO</a>
+		<div class="f10">2011-06-14</div></td>
+	<td class="tal f10 y-style">18</td>
+	<td class="tal y-style"><a href="read.php?tid=530192&page=e&fpage=17#a" class="f10"> 2014-11-06 21:11 </a><br />by: 精天动弟</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/529694.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/529694.html" target="_blank" id=""><b><font color=red>「(原創)[神馬耶樹][発情オンナノコ][中文化]」小黑条/JPG/110MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=529694&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=529694&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=529694&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-13</div></td>
+	<td class="tal f10 y-style">23</td>
+	<td class="tal y-style"><a href="read.php?tid=529694&page=e&fpage=17#a" class="f10"> 2014-10-07 22:33 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/529685.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/529685.html" target="_blank" id=""><b><font color=red>「(原創)[鬼束直]_ポルノグラフィティ[春蛋漢化]」小黑条/JPG/90MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=529685&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=529685&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-13</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=529685&page=e&fpage=17#a" class="f10"> 2014-10-08 06:51 </a><br />by: 少侠i别走</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/529680.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/529680.html" target="_blank" id=""><b><font color=red>「(原創)[フクダーダ]相思相愛ノート(別スキャン)[悠月工房]」小黑条/JPG/82MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=529680&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=529680&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-13</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=529680&page=e&fpage=17#a" class="f10"> 2014-10-07 22:32 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/529439.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/529439.html" target="_blank" id=""><b><font color=red>「(原創)魔が堕ちる夜 (中文)」JPG/66MB</font></b></a></h3> &nbsp;<font color=green>[積分+78]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=529439&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=529439&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-13</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=529439&page=e&fpage=17#a" class="f10"> 2014-10-07 22:25 </a><br />by: 浮世清欢</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/529434.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/529434.html" target="_blank" id=""><b><font color=red>「(原創)家族どんぶり(中文)」JPG/107MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=529434&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=529434&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=529434&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-13</div></td>
+	<td class="tal f10 y-style">20</td>
+	<td class="tal y-style"><a href="read.php?tid=529434&page=e&fpage=17#a" class="f10"> 2014-10-07 17:56 </a><br />by: 少侠i别走</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/528857.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/528857.html" target="_blank" id=""><b><font color=red>「(原創)[ねんど。][シスドリ][Badluck1205&裏之夢境][中漫]」小黑条/JPG/87MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=528857&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=528857&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-12</div></td>
+	<td class="tal f10 y-style">13</td>
+	<td class="tal y-style"><a href="read.php?tid=528857&page=e&fpage=17#a" class="f10"> 2015-01-15 10:49 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/528856.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/528856.html" target="_blank" id=""><b><font color=red>「(原創)[鷹勢優][ぶるまぁく][SOS117][中漫]」小黑条/JPG/104MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=528856&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=528856&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-12</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=528856&page=e&fpage=17#a" class="f10"> 2015-01-15 10:49 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/528852.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/528852.html" target="_blank" id=""><b><font color=red>「(原創)[TYPE.90][ONE★MOE][SOS117][中漫]」小黑条/JPG/154MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=528852&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=528852&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-12</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal y-style"><a href="read.php?tid=528852&page=e&fpage=17#a" class="f10"> 2015-01-15 10:49 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/528455.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/528455.html" target="_blank" id=""><b><font color=red>「(原創)若奧様解放區+無法收縮的小淫肛(中文)」JPG/95MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=528455&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=528455&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=528455&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=528455&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-12</div></td>
+	<td class="tal f10 y-style">34</td>
+	<td class="tal y-style"><a href="read.php?tid=528455&page=e&fpage=17#a" class="f10"> 2015-01-15 10:48 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/528398.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/528398.html" target="_blank" id=""><b><font color=red>「(原創)崩壊の慟哭+Lycoris(中文)」JPG/96MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=528398&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=528398&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=528398&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-12</div></td>
+	<td class="tal f10 y-style">21</td>
+	<td class="tal y-style"><a href="read.php?tid=528398&page=e&fpage=17#a" class="f10"> 2015-01-15 10:48 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/528383.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/528383.html" target="_blank" id=""><b><font color=red>「(原創)叔嫂姦情+亂倫相姦(中文)」JPG/102MB</font></b></a></h3> &nbsp;<font color=green>[積分+78]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=528383&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=528383&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=528383&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=528383&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-12</div></td>
+	<td class="tal f10 y-style">34</td>
+	<td class="tal y-style"><a href="read.php?tid=528383&page=e&fpage=17#a" class="f10"> 2015-01-15 10:48 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/527460.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/527460.html" target="_blank" id=""><b><font color=red>「(原創)[加瀬大輝]性純乙女 [中文化]」小黑条/JPG/205MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=527460&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=527460&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-11</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal y-style"><a href="read.php?tid=527460&page=e&fpage=17#a" class="f10"> 2015-01-15 10:47 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/527457.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/527457.html" target="_blank" id=""><b><font color=red>「(原創)[碧木誠心]弟のくせに [中文化]」小黑条/JPG/81MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=527457&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=527457&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-11</div></td>
+	<td class="tal f10 y-style">12</td>
+	<td class="tal y-style"><a href="read.php?tid=527457&page=e&fpage=17#a" class="f10"> 2015-01-15 10:47 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/527450.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/527450.html" target="_blank" id=""><b><font color=red>「(原創)[らくじん] 妖怪学園-淫蕩夜行- [日漫]」小黑条/JPG/76MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=527450&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=527450&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=527450&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-11</div></td>
+	<td class="tal f10 y-style">22</td>
+	<td class="tal y-style"><a href="read.php?tid=527450&page=e&fpage=17#a" class="f10"> 2015-01-15 10:46 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/525650.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/525650.html" target="_blank" id=""><b><font color=red>「(原創)疯狼@草榴社区 整合两部中漫(中文)」无码/JPG/95.3M</font></b></a></h3> &nbsp;<font color=green>[積分+39]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=525650&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=525650&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=525650&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=525650&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=112442" class="bl">疯狼</a>
+		<div class="f10">2011-06-10</div></td>
+	<td class="tal f10 y-style">35</td>
+	<td class="tal y-style"><a href="read.php?tid=525650&page=e&fpage=17#a" class="f10"> 2015-01-15 10:45 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/525915.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/525915.html" target="_blank" id=""><b><font color=red>「(原創)[いーむす·アキ]モノノケアクメ [中文化]」小黑条/JPG/145MB</font></b></a></h3> &nbsp;<font color=green>[積分+156]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=525915&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=525915&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=525915&page=3&fpage=17' target='_blank'>3</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-10</div></td>
+	<td class="tal f10 y-style">21</td>
+	<td class="tal y-style"><a href="read.php?tid=525915&page=e&fpage=17#a" class="f10"> 2015-01-15 10:45 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/525909.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/525909.html" target="_blank" id=""><b><font color=red>「(原創)[ますだ犬×倉科遼]性戯王～48の奇跡～下卷 [中文化]」小黑条/JPG/130MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=525909&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=525909&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=525909&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=525909&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-10</div></td>
+	<td class="tal f10 y-style">31</td>
+	<td class="tal y-style"><a href="read.php?tid=525909&page=e&fpage=17#a" class="f10"> 2015-01-15 10:44 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/525902.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/525902.html" target="_blank" id=""><b><font color=red>「(原創)[まよねーず。]庶務部厚生課性処理係 [中文化]」小黑条/JPG/69MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=525902&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=525902&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-10</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=525902&page=e&fpage=17#a" class="f10"> 2015-01-15 10:44 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/525897.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/525897.html" target="_blank" id=""><b><font color=red>「(原創)[夏庵] デレのちトラレ[中漫]」小黑条/JPG/99MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=525897&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=525897&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-10</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal y-style"><a href="read.php?tid=525897&page=e&fpage=17#a" class="f10"> 2015-01-15 10:44 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/524980.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/524980.html" target="_blank" id=""><b><font color=red>「(原創)母の哭く家(中文)」小黑條/JPG/65MB</font></b></a></h3> &nbsp;<font color=green>[積分+78]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=524980&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=524980&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=524980&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=524980&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=524980&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-09</div></td>
+	<td class="tal f10 y-style">42</td>
+	<td class="tal y-style"><a href="read.php?tid=524980&page=e&fpage=17#a" class="f10"> 2015-01-15 10:43 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/524633.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/524633.html" target="_blank" id=""><b><font color=red>「(原創) 怪物猎人中文1-10 (中字) 」 无码/JPG/300MB</font></b></a></h3> &nbsp;<font color=green>[積分+195]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=524633&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=524633&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=524633&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=524633&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=524633&page=5&fpage=17' target='_blank'>5</a> .. <a href='read.php?tid=524633&page=13&fpage=17' target='_blank'>13</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=81040" class="bl">沙海看浪</a>
+		<div class="f10">2011-06-09</div></td>
+	<td class="tal f10 y-style">126</td>
+	<td class="tal y-style"><a href="read.php?tid=524633&page=e&fpage=17#a" class="f10"> 2015-01-15 10:42 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/524539.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/524539.html" target="_blank" id=""><b><font color=red>「(原創)疯狼@草榴社区 太闷绝系列究极合集(中/日文)」 无码/JPG/786M</font></b></a></h3> &nbsp;<font color=green>[積分+40]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=524539&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=524539&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=524539&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=524539&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=524539&page=5&fpage=17' target='_blank'>5</a> <a href='read.php?tid=524539&page=6&fpage=17' target='_blank'>6</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=112442" class="bl">疯狼</a>
+		<div class="f10">2011-06-09</div></td>
+	<td class="tal f10 y-style">51</td>
+	<td class="tal y-style"><a href="read.php?tid=524539&page=e&fpage=17#a" class="f10"> 2015-01-15 10:42 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/524259.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/524259.html" target="_blank" id=""><b><font color=red>「(原創)[世徒]STRINGENDO(中文)」JPG/80MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=524259&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=524259&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-09</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=524259&page=e&fpage=17#a" class="f10"> 2015-01-15 10:41 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/524246.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/524246.html" target="_blank" id=""><b><font color=red>「(原創)[鳴子ハナハル] 少女マテリアル(中文)」小黑條/JPG/106MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=524246&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=524246&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-09</div></td>
+	<td class="tal f10 y-style">11</td>
+	<td class="tal y-style"><a href="read.php?tid=524246&page=e&fpage=17#a" class="f10"> 2015-01-15 10:40 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/523442.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/523442.html" target="_blank" id=""><b><font color=red>「(原創) [悠月工房] 乙女の恋愛情事 」 无码/JPG/62MB</font></b></a></h3> &nbsp;<font color=green>[積分+39]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=523442&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=523442&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=523442&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=523442&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=523442&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=81040" class="bl">沙海看浪</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">43</td>
+	<td class="tal y-style"><a href="read.php?tid=523442&page=e&fpage=17#a" class="f10"> 2015-01-21 14:35 </a><br />by: 第七种男人</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/523436.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/523436.html" target="_blank" id=""><b><font color=red>「(原創)[音乃夏][Oh！My Girl][沒人漢化][中漫]6.8新汉化」小黑条/JPG/77MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=523436&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=523436&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=523436&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=523436&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">31</td>
+	<td class="tal y-style"><a href="read.php?tid=523436&page=e&fpage=17#a" class="f10"> 2015-01-15 10:40 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/523402.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/523402.html" target="_blank" id=""><b><font color=red>「(原創)[蒟吉人] Bitch Trap(淫女陷阱)[中漫]」小黑条/JPG/84MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=523402&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=523402&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=523402&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=523402&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">30</td>
+	<td class="tal y-style"><a href="read.php?tid=523402&page=e&fpage=17#a" class="f10"> 2015-01-15 10:40 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/523171.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/523171.html" target="_blank" id=""><b><font color=red>「(原創)[藤ます] Sweet Lip」小黑条/JPG/102MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=523171&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=523171&page=2&fpage=17' target='_blank'>2</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">16</td>
+	<td class="tal y-style"><a href="read.php?tid=523171&page=e&fpage=17#a" class="f10"> 2015-01-15 10:40 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/522828.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/522828.html" target="_blank" id=""><b><font color=red>「(原創)妻-杏子[中文]」JPG/61MB</font></b></a></h3> &nbsp;<font color=green>[積分+117]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=522828&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=522828&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=522828&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=522828&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=522828&page=5&fpage=17' target='_blank'>5</a> <a href='read.php?tid=522828&page=6&fpage=17' target='_blank'>6</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">55</td>
+	<td class="tal y-style"><a href="read.php?tid=522828&page=e&fpage=17#a" class="f10"> 2015-01-15 10:39 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/522819.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/522819.html" target="_blank" id=""><b><font color=red>「(原創)[幸田朋弘]不要啊!姐姐(中文)」JPG/68MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=522819&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=522819&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=522819&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=522819&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=522819&page=5&fpage=17' target='_blank'>5</a> <a href='read.php?tid=522819&page=6&fpage=17' target='_blank'>6</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">54</td>
+	<td class="tal y-style"><a href="read.php?tid=522819&page=e&fpage=17#a" class="f10"> 2015-01-15 10:39 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/522792.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/522792.html" target="_blank" id=""><b><font color=red>「(原創)[Cuvie] スイッチswitch(最新漢化)」JPG/81MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=522792&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=522792&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=522792&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=522792&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-08</div></td>
+	<td class="tal f10 y-style">35</td>
+	<td class="tal y-style"><a href="read.php?tid=522792&page=e&fpage=17#a" class="f10"> 2015-01-15 10:39 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/520988.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/520988.html" target="_blank" id=""><b><font color=red>「(原創) [天月NTR汉化组] 僕の妹がこんなにエロいはずが 」 小黑条/JPG/100MB</font></b></a></h3> &nbsp;<font color=green>[積分+39]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=520988&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=520988&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=520988&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=520988&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=520988&page=5&fpage=17' target='_blank'>5</a> .. <a href='read.php?tid=520988&page=8&fpage=17' target='_blank'>8</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=81040" class="bl">沙海看浪</a>
+		<div class="f10">2011-06-07</div></td>
+	<td class="tal f10 y-style">77</td>
+	<td class="tal y-style"><a href="read.php?tid=520988&page=e&fpage=17#a" class="f10"> 2015-01-15 10:39 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/520539.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/520539.html" target="_blank" id=""><b><font color=red>「(原創)[いのまる]恥ずかし女(中文)」JPG/76MB</font></b></a></h3> &nbsp;<font color=green>[積分+177]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=520539&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=520539&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=520539&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=520539&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=520539&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">48</td>
+	<td class="tal y-style"><a href="read.php?tid=520539&page=e&fpage=17#a" class="f10"> 2015-01-15 10:39 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/520524.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/520524.html" target="_blank" id=""><b><font color=red>「(原創)[いのまる] いたずら専用(中文)」JPG/66MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=520524&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=520524&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=520524&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=520524&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=520524&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">46</td>
+	<td class="tal y-style"><a href="read.php?tid=520524&page=e&fpage=17#a" class="f10"> 2015-01-15 10:38 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/520506.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/520506.html" target="_blank" id=""><b><font color=red>「(原創)[鬼窪浩久×華先亜輝] 真..生贄夫人[中文]」JPG/68MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=520506&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=520506&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=520506&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=520506&page=4&fpage=17' target='_blank'>4</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">36</td>
+	<td class="tal y-style"><a href="read.php?tid=520506&page=e&fpage=17#a" class="f10"> 2015-01-15 10:38 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/520112.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/520112.html" target="_blank" id=""><b><font color=red>「(原創)獸穴沸騰。@草榴社區 漫畫合集(中文)」JPG/1.37GB</font></b></a></h3>  
+
+	<font color="red">[精]</font>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=520112&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=520112&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=520112&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=520112&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=520112&page=5&fpage=17' target='_blank'>5</a> .. <a href='read.php?tid=520112&page=11&fpage=17' target='_blank'>11</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">108</td>
+	<td class="tal y-style"><a href="read.php?tid=520112&page=e&fpage=17#a" class="f10"> 2015-01-21 14:35 </a><br />by: 第七种男人</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/519984.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/519984.html" target="_blank" id=""><b><font color=red>「(原創)[ さいこ] 制服穴_外流版&[流一本]_女の子バザー」小黑条/JPG/110MB</font></b></a></h3> &nbsp;<font color=green>[積分+78]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=519984&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=519984&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=519984&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=519984&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=519984&page=5&fpage=17' target='_blank'>5</a> .. <a href='read.php?tid=519984&page=8&fpage=17' target='_blank'>8</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">74</td>
+	<td class="tal y-style"><a href="read.php?tid=519984&page=e&fpage=17#a" class="f10"> 2015-01-15 10:38 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/519415.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/519415.html" target="_blank" id=""><b><font color=red>「(原創)[東山翔][Gift][Badluck1205][中漫]」小黑条/JPG/73MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=519415&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=519415&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=519415&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=519415&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=519415&page=5&fpage=17' target='_blank'>5</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=74208" class="bl">日生活</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">43</td>
+	<td class="tal y-style"><a href="read.php?tid=519415&page=e&fpage=17#a" class="f10"> 2015-01-15 10:38 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/519275.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/519275.html" target="_blank" id=""><b><font color=red>「(原創)[E-musu Aki]Koi seyo Otome(中文)」JPG/70MB</font></b></a></h3> &nbsp;<font color=green>[積分+100]</font>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=519275&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=519275&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=519275&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=519275&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=519275&page=5&fpage=17' target='_blank'>5</a> <a href='read.php?tid=519275&page=6&fpage=17' target='_blank'>6</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">56</td>
+	<td class="tal y-style"><a href="read.php?tid=519275&page=e&fpage=17#a" class="f10"> 2015-01-15 10:38 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="打開新窗口" href="htm_data/5/1106/519025.html" target="_blank">.::</a></td><td style="text-align:left;padding-left:8px" id=""> 
+
+	
+
+	[漫畫]
+
+	<h3><a href="htm_data/5/1106/519025.html" target="_blank" id=""><b><font color=red>「(原創)[ウエノ直哉] collections(中文)」JPG/168MB</font></b></a></h3>  
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=519025&page=1&fpage=17' target='_blank'>1</a> <a href='read.php?tid=519025&page=2&fpage=17' target='_blank'>2</a> <a href='read.php?tid=519025&page=3&fpage=17' target='_blank'>3</a> <a href='read.php?tid=519025&page=4&fpage=17' target='_blank'>4</a> <a href='read.php?tid=519025&page=5&fpage=17' target='_blank'>5</a> <a href='read.php?tid=519025&page=6&fpage=17' target='_blank'>6</a> <a href='read.php?tid=519025&page=7&fpage=17' target='_blank'>7</a></span> ]
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=206272" class="bl">獸穴沸騰。</a>
+		<div class="f10">2011-06-06</div></td>
+	<td class="tal f10 y-style">61</td>
+	<td class="tal y-style"><a href="read.php?tid=519025&page=e&fpage=17#a" class="f10"> 2015-01-15 10:37 </a><br />by: 明仁宗</td>
+	</tr>
+
+	<tr><td style="height:8px"></td>
+	</tr></tbody>
+</table></div>
+
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="left"><div class="pages"><a href="thread0806.php?fid=5&search=&type=2&page=1" style="font-weight:bold">＜</a><a href="thread0806.php?fid=5&search=&type=2&page=14">14</a><a href="thread0806.php?fid=5&search=&type=2&page=15">15</a><a href="thread0806.php?fid=5&search=&type=2&page=16">16</a><b> 17 </b><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=5&search=&type=2&page='+this.value;return false;}"><a href="thread0806.php?fid=5&search=&type=2&page=17" style="font-weight:bold">＞</a></div></td>
+	<form name="jump" method="post">
+		<td align="right"><a href="profile.php?action=forumright&fid=5" title="查看您在本版塊的權限">版塊權限查看</a>&nbsp;
+		<select onchange="window.location='thread0806.php?fid='+this.options[this.selectedIndex].value"><option value="" selected>快速跳至</option>
+<option value="1">>> BT電影下載</option>
+<option value="2"> &nbsp;|- 亞洲無碼原創區</option>
+<option value="17"> &nbsp; &nbsp;|-  亞洲無碼轉帖交流區</option>
+<option value="15"> &nbsp;|- 亞洲有碼原創區</option>
+<option value="18"> &nbsp; &nbsp;|-  亞洲有碼轉帖交流區</option>
+<option value="4"> &nbsp;|- 歐美原創區</option>
+<option value="19"> &nbsp; &nbsp;|-  歐美轉帖交流區</option>
+<option value="5"> &nbsp;|- 動漫原創區</option>
+<option value="24"> &nbsp; &nbsp;|-  動漫轉帖區</option>
+<option value="21"> &nbsp;|- HTTP下載區</option>
+<option value="22"> &nbsp;|- 在綫成人影院</option>
+<option value="10"> &nbsp;|- 草榴影視庫</option>
+<option value="11"> &nbsp; &nbsp;|-  亞洲區</option>
+<option value="12"> &nbsp; &nbsp;|-  歐美區</option>
+<option value="13"> &nbsp; &nbsp;|-  動漫區</option>
+<option value="14"> &nbsp; &nbsp;|-  圖片區</option>
+<option value="23"> &nbsp; &nbsp;|-  博彩區</option>
+<option value="6">>> 草榴休閑區</option>
+<option value="7"> &nbsp;|- 技術討論區</option>
+<option value="8"> &nbsp;|- 新時代的我們</option>
+<option value="16"> &nbsp;|- 達蓋爾的旗幟</option>
+<option value="20"> &nbsp;|- 成人文學交流區</option>
+<option value="9"> &nbsp;|- 草榴資訊</option>
+		
+		</select></td>
+	</form>
+	</tr>
+	<tr valign="top">
+		<form action="thread0806.php" method="get">
+		<td style="vertical-align:middle;">
+		<input type="hidden" name="fid" value="5"/>
+		<select name="search">
+			<option value="">所有主題</option>
+			<option value="digest">本版精華區</option>
+			<option value="1">1天內的主題</option>
+			<option value="2">2天內的主題</option>
+			<option value="7">1星期內的主題</option>
+			<option value="30">1個月內的主題</option>
+			<option value="60">2個月內的主題</option>
+			<option value="90">3個月內的主題</option>
+			<option value="180">6個月內的主題</option>
+			<option value="365">1年內的主題</option>
+		</select>
+
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</td>
+	</form>
+	</tr>
+</table></div>
+
+</div>
+<center class="gray">
+<br />用時 0.04(s) x2, 02-28 15:11,   <a href='mobile.php?ismobile=no'>電腦版</a> <a href='mobile.php?ismobile=yes'>手機版</a><br />
+<div style='margin-left:-9999px;'><script src='http://s103.cnzz.com/stat.php?id=950900&web_id=950900&online=1&show=line' language='JavaScript' charset='gb2312'></script></div>
+</center><br />
+</body></html>
+

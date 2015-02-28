@@ -1,0 +1,10 @@
+X-Varnish: 2904245225 2860101619
+Accept-Ranges: bytes
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Server: nginx
+Via: 1.1 varnish
+Location: http://i.imgur.com/Pna06QR.jpg
+Cache-Control: max-age=315360000
+Date: Sat, 28 Feb 2015 08:16:21 GMT
+Content-Type: text/html
+Age: 29109

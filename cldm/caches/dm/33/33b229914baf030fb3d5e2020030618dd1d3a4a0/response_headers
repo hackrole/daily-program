@@ -1,0 +1,23 @@
+X-Powered-By: PHP/5.2.9
+X-Varnish-Ip: 38.99.79.20
+X-Varnish-Hits: 75337
+Access-Control-Allow-Origin: imageshack.com
+Content-Disposition: inline; filename=dc774b770b83aeaf3fee515f2305a7f1
+X-Original-Filesize: 131072
+Expires: Tue, 03 Mar 2015 01:55:09 GMT
+Date: Sat, 28 Feb 2015 08:16:26 GMT
+Accept-Ranges: bytes
+X-Varnish: 2464992802 1910438107
+X-Cache: HIT
+Age: 2579677
+Access-Control-Allow-Credentials: true
+Server: NetDNA-cache/2.2
+Testmode: rdcv7
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+X-Mobile-Compressed: 0
+Via: 1.1 varnish
+X-Varnish-Port: 17001
+Cache-Control: max-age=2592000
+Cache-Control: public
+Access-Control-Allow-Headers: Authorization,Content-Type,Accept,Origin,User-Agent,DNT,Cache-Control,X-Mx-ReqToken,Keep-Alive,X-Requested-With,If-Modified-Since
+Content-Type: image/jpeg

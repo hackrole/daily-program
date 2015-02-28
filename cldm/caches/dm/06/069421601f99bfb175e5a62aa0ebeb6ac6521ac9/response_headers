@@ -1,0 +1,17 @@
+X-Debug-Icache: HIT(199473, 18.03)
+X-Via: 1.1 nanning57:8110 (Cdn Cache Server V2.0), 1.1 yangzhou45:10 (Cdn Cache Server V2.0)
+Expires: Tue, 26 May 2015 04:42:16 GMT
+X-Debug-Idc: BJCNC
+X-Debug-Im: wi
+X-Via-Cdn: f=cnct,s=nanning57:8110,c=112.83.95.15; f=cnct,s=yangzhou45:10,c=116.226.202.248
+Age: 1
+X-Powered-By: PHP/5.2.14
+Sina-Lb: aGEuMjE5LmcyLnlmLmxiLnNpbmFub2RlLmNvbQ==
+Server: weibo_img-CL2-l2-006
+Last-Modified: Wed, 25 Feb 2015 04:11:07 GMT
+Sina-Ts: YTM5YTllY2UgMCAwIDAgNiAxCg==
+Pragma: public
+Cache-Control: max-age=7776000
+Date: Wed, 25 Feb 2015 04:42:16 GMT
+Content-Type: image/jpeg
+X-Debug-Dom: 20150225121107-1424837467

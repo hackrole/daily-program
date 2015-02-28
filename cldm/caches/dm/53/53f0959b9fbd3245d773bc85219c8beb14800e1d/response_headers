@@ -1,0 +1,15 @@
+Via: http/1.1 ctc.ningbo.ha2ts4.47 (ApacheTrafficServer/4.2.1.1 [cHs f ]), http/1.1 ctc.shanghai.ts.78 (ApacheTrafficServer/4.2.1.1 [cHs f ])
+X-Debug-Idc: GZ
+X-Powered-By: PHP/5.2.14
+X-Via-Cdn: f=Edge,s=ctc.ningbo.ha2ts4.47,c=124.78.92.50;f=Edge,s=ctc.shanghai.ts.78,c=116.226.202.248
+Age: 509179
+Expires: Sat, 23 May 2015 10:48:53 GMT
+Sina-Lb: aGEuMTkuZzEuc2h4LmxiLnNpbmFub2RlLmNvbQ==
+Server: weibo_img-CL2-l2-020
+Last-Modified: Sun, 22 Feb 2015 10:48:53 GMT
+Sina-Ts: ZDlkYzk4Y2UgMCAwIDAgNiAxCg==
+Pragma: public
+Cache-Control: max-age=7776000
+Date: Sun, 22 Feb 2015 10:48:53 GMT
+Content-Type: image/jpeg
+X-Debug-Dom: 20150222184853-1424602133

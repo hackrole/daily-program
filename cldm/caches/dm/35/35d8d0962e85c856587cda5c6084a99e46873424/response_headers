@@ -1,0 +1,14 @@
+X-Served-By: cache-iad2129-IAD, cache-sjc3132-SJC
+X-Cache: MISS, HIT
+Accept-Ranges: bytes
+X-Timer: S1425111720.331171,VS0,VE0
+Server: cat factory 1.0
+Last-Modified: Sat, 31 Jan 2015 02:54:14 GMT
+Etag: "347f9628f409450d935da634d78bbb3e"
+X-Cache-Hits: 0, 25801
+Cache-Control: public, max-age=31536000
+Date: Sat, 28 Feb 2015 08:22:00 GMT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, OPTIONS
+Content-Type: image/jpeg
+Age: 2438796
