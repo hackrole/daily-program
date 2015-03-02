@@ -1,8 +1,0 @@
-X-Powered-By: PHP/5.3.3
-Expires: Sat, 28 Feb 2015 09:15:03 GMT
-Vary: Accept-Encoding
-Server: nginx/1.4.3
-Location: http://www.tu265.com/
-Cache-Control: max-age=3600
-Date: Sat, 28 Feb 2015 08:15:03 GMT
-Content-Type: text/html
