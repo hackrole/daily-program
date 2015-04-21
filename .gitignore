@@ -6,4 +6,5 @@
 *.beam
 logs/*
 uploads/*
-.ropeproject
+*.ropeproject
+*node_modules/
